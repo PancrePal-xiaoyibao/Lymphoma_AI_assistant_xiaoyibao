@@ -56,7 +56,7 @@
 - [ ] 泼尼松 (Prednisone)
 
 ## 7. CD20单克隆抗体
-- [ ] 奥妥珠单抗 (Obinutuzumab)
+- [x] 奥妥珠单抗 (Obinutuzumab)
 
 ## 8. BTK抑制剂
 - [x] 伊布替尼 (Ibrutinib)
@@ -93,13 +93,13 @@
 - [x] 盐酸米托蒽醌脂质体
 
 ## 18. 造血刺激因子
-- [ ] 重组人粒细胞集落刺激因子 (G-CSF)
+- [x] 重组人粒细胞集落刺激因子 (G-CSF)
 - [ ] 非格司亭 (Filgrastim)
-- [ ] 聚乙二醇化G-CSF (PEG-G-CSF)
+- [x] 聚乙二醇化G-CSF (PEG-G-CSF)
 
 ## 19. 解毒剂
-- [ ] 美司钠 (Mesna)
-- [ ] 叶酸 (Leucovorin)
+- [x] 美司钠 (Mesna)
+- [x] 左亚叶酸 (Leucovorin)
 
 ## 20. 止吐药物
 - [ ] 昂丹司琼 (Ondansetron)
@@ -107,9 +107,9 @@
 - [ ] 阿瑞匹坦 (Aprepitant)
 
 ## 21. 抗感染药物
-- [ ] 复方磺胺甲噁唑 (SMZ-TMP)
-- [ ] 氟康唑 (Fluconazole)
-- [ ] 阿昔洛韦 (Acyclovir)
+- [x] 复方磺胺甲噁唑 (SMZ-TMP)
+- [x] 氟康唑 (Fluconazole)
+- [x] 阿昔洛韦 (Acyclovir)
 
 ## 22. 胃肠道保护
 - [ ] 奥美拉唑 (Omeprazole)
@@ -121,7 +121,7 @@
 - [ ] 碳酸氢钠
 
 ## 24. 心脏保护
-- [ ] 右雷佐生 (Dexrazoxane)
+- [x] 右雷佐生 (Dexrazoxane)
 
 ## 25. 其他支持药物
 - [ ] 重组人促红细胞生成素 (EPO)
@@ -130,7 +130,7 @@
 - [ ] 叶酸
 
 ## 26. CAR-T细胞治疗产品
-- [ ] Axicabtagene ciloleucel (Yescarta)
+- [x] Axicabtagene ciloleucel (Yescarta)
 - [ ] Lisocabtagene maraleucel (Breyanzi)
 
 总计：约65种药物（排除已有的通用化疗药物）
