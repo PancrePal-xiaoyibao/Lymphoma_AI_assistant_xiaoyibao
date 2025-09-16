@@ -1,0 +1,583 @@
+[
+  {
+    "title": "度维利塞胶囊说明书",
+    "level": 1,
+    "position": 12,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药品名称】",
+    "level": 1,
+    "position": 375,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【成份】",
+    "level": 1,
+    "position": 465,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【性状】",
+    "level": 1,
+    "position": 828,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【适应症】",
+    "level": 1,
+    "position": 1011,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【规格】",
+    "level": 1,
+    "position": 1123,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【用法用量】",
+    "level": 1,
+    "position": 1186,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "推荐剂量",
+    "level": 1,
+    "position": 1196,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "预防措施",
+    "level": 1,
+    "position": 1361,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "不良反应的剂量调整",
+    "level": 1,
+    "position": 1567,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "与CYP3A4抑制剂合并使用时的剂量调整",
+    "level": 1,
+    "position": 5024,
+    "children": [],
+    "link": "#cyp3a4"
+  },
+  {
+    "title": "特殊人群",
+    "level": 1,
+    "position": 5119,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肾功能损伤",
+    "level": 1,
+    "position": 5204,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "儿童",
+    "level": 1,
+    "position": 5335,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【不良反应】",
+    "level": 1,
+    "position": 5364,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "临床试验经验",
+    "level": 1,
+    "position": 5500,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "B细胞恶性肿瘤临床试验经验总结",
+    "level": 1,
+    "position": 5597,
+    "children": [],
+    "link": "#b"
+  },
+  {
+    "title": "常见不良反应",
+    "level": 1,
+    "position": 6389,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "滤泡淋巴瘤临床试验经验总结",
+    "level": 1,
+    "position": 10507,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【禁忌】",
+    "level": 1,
+    "position": 11558,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【注意事项】",
+    "level": 1,
+    "position": 11586,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "感染",
+    "level": 1,
+    "position": 11596,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "腹泻或结肠炎",
+    "level": 1,
+    "position": 12417,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "皮肤反应",
+    "level": 1,
+    "position": 13131,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肺炎",
+    "level": 1,
+    "position": 13900,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肝毒性",
+    "level": 1,
+    "position": 14356,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "中性粒细胞减少症",
+    "level": 1,
+    "position": 14968,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "胚胎-胎儿毒性",
+    "level": 1,
+    "position": 15427,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药物相互作用】",
+    "level": 1,
+    "position": 15723,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "其它药物对度维利塞胶囊的影响",
+    "level": 1,
+    "position": 15735,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "CYP3A诱导剂",
+    "level": 1,
+    "position": 15753,
+    "children": [],
+    "link": "#cyp3a"
+  },
+  {
+    "title": "CYP3A抑制剂",
+    "level": 1,
+    "position": 15862,
+    "children": [],
+    "link": "#cyp3a"
+  },
+  {
+    "title": "度维利塞胶囊对其它药物的影响",
+    "level": 1,
+    "position": 15998,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "CYP3A底物",
+    "level": 1,
+    "position": 16016,
+    "children": [],
+    "link": "#cyp3a"
+  },
+  {
+    "title": "【孕妇及哺乳期妇女用药】",
+    "level": 1,
+    "position": 16142,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "避孕",
+    "level": 1,
+    "position": 16158,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "女性",
+    "level": 1,
+    "position": 16164,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "男性",
+    "level": 1,
+    "position": 16283,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "孕妇",
+    "level": 1,
+    "position": 16345,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "生育力",
+    "level": 1,
+    "position": 16616,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "哺乳期妇女",
+    "level": 1,
+    "position": 16686,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【儿童用药】",
+    "level": 1,
+    "position": 16805,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【老年用药】",
+    "level": 1,
+    "position": 16841,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药物过量】",
+    "level": 1,
+    "position": 16946,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【临床试验】",
+    "level": 1,
+    "position": 16974,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药理毒理】",
+    "level": 1,
+    "position": 18183,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药理作用",
+    "level": 1,
+    "position": 18193,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "毒理研究",
+    "level": 1,
+    "position": 18398,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "遗传毒性",
+    "level": 1,
+    "position": 18406,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "生殖毒性",
+    "level": 1,
+    "position": 18462,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "致癌性",
+    "level": 1,
+    "position": 19313,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药代动力学】",
+    "level": 1,
+    "position": 19336,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "吸收",
+    "level": 1,
+    "position": 19623,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "食物的影响",
+    "level": 1,
+    "position": 19727,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "分布",
+    "level": 1,
+    "position": 19872,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "消除",
+    "level": 1,
+    "position": 20037,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "代谢",
+    "level": 1,
+    "position": 20172,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "排泄",
+    "level": 1,
+    "position": 20204,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "特殊人群",
+    "level": 1,
+    "position": 20317,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药物相互作用研究",
+    "level": 1,
+    "position": 20797,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "强效和中度CYP3A抑制剂",
+    "level": 1,
+    "position": 20809,
+    "children": [],
+    "link": "#cyp3a"
+  },
+  {
+    "title": "强效和中度CYP3A4诱导剂",
+    "level": 1,
+    "position": 21121,
+    "children": [],
+    "link": "#cyp3a4"
+  },
+  {
+    "title": "CYP3A4底物",
+    "level": 1,
+    "position": 21353,
+    "children": [],
+    "link": "#cyp3a4"
+  },
+  {
+    "title": "体外研究",
+    "level": 1,
+    "position": 21538,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药效动力学",
+    "level": 1,
+    "position": 21643,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "心脏电生理学",
+    "level": 1,
+    "position": 21736,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【贮藏】",
+    "level": 1,
+    "position": 21850,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【包装】",
+    "level": 1,
+    "position": 21894,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【有效期】",
+    "level": 1,
+    "position": 21922,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【批准文号】",
+    "level": 1,
+    "position": 21997,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药品上市许可持有人】",
+    "level": 1,
+    "position": 22016,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【生产企业】",
+    "level": 1,
+    "position": 22142,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【包装厂】",
+    "level": 1,
+    "position": 22255,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【境内联系机构】",
+    "level": 1,
+    "position": 22345,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【患者相关咨询信息】",
+    "level": 1,
+    "position": 22486,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "腹泻/结肠炎",
+    "level": 1,
+    "position": 22616,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "皮肤反应",
+    "level": 1,
+    "position": 22702,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肺炎",
+    "level": 1,
+    "position": 22766,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肝毒性",
+    "level": 1,
+    "position": 22849,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "中性粒细胞减少症",
+    "level": 1,
+    "position": 22934,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "胚胎-胎儿毒性",
+    "level": 1,
+    "position": 22994,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "哺乳",
+    "level": 1,
+    "position": 23202,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "度维利塞使用说明",
+    "level": 1,
+    "position": 23325,
+    "children": [],
+    "link": "#"
+  }
+]

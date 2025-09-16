@@ -1,0 +1,152 @@
+[
+  {
+    "title": "基于中国诊疗现状的《NCCN 指南：原发性皮肤淋巴瘤（2024 年第 1 版）》解读",
+    "level": 1,
+    "position": 1,
+    "children": [],
+    "link": "#nccn-2024-1"
+  },
+  {
+    "title": "Interpretation of NCCN Clinical Practice Guidelines for Primary Cutaneous Lymphomas (Version 1. 2024) Based on the Current Diagnosis and Treatment Status of China",
+    "level": 1,
+    "position": 563,
+    "children": [
+      {
+        "title": "1 原发性皮肤T细胞淋巴瘤",
+        "level": 2,
+        "position": 2330,
+        "children": [
+          {
+            "title": "1.1 MF/SS",
+            "level": 3,
+            "position": 2348,
+            "children": [
+              {
+                "title": "1.1.1 诊断",
+                "level": 4,
+                "position": 2492,
+                "children": [],
+                "link": "#111"
+              },
+              {
+                "title": "1.1.2 辅助检查",
+                "level": 4,
+                "position": 2947,
+                "children": [],
+                "link": "#112"
+              },
+              {
+                "title": "1.1.3 分期",
+                "level": 4,
+                "position": 3315,
+                "children": [],
+                "link": "#113"
+              },
+              {
+                "title": "1.1.4 治疗",
+                "level": 4,
+                "position": 4776,
+                "children": [],
+                "link": "#114"
+              },
+              {
+                "title": "1.1.4.1 治疗原则",
+                "level": 4,
+                "position": 4791,
+                "children": [],
+                "link": "#1141"
+              }
+            ],
+            "link": "#11-mfss"
+          }
+        ],
+        "link": "#1-t"
+      },
+      {
+        "title": "(2)ⅠB～ⅡA期",
+        "level": 2,
+        "position": 5283,
+        "children": [],
+        "link": "#2ba"
+      },
+      {
+        "title": "（3）ⅡB期",
+        "level": 2,
+        "position": 6070,
+        "children": [],
+        "link": "#3b"
+      },
+      {
+        "title": "（4）Ⅲ期",
+        "level": 2,
+        "position": 6338,
+        "children": [],
+        "link": "#4"
+      },
+      {
+        "title": "（5）SSⅣA1期或ⅣA2期",
+        "level": 2,
+        "position": 6556,
+        "children": [],
+        "link": "#5ssa1a2"
+      },
+      {
+        "title": "（6）非SSⅣA2期和ⅣB期",
+        "level": 2,
+        "position": 6735,
+        "children": [],
+        "link": "#6ssa2b"
+      },
+      {
+        "title": "（7）MF伴大细胞转化",
+        "level": 2,
+        "position": 6891,
+        "children": [],
+        "link": "#7mf"
+      },
+      {
+        "title": "（8）复发难治性MF",
+        "level": 2,
+        "position": 7034,
+        "children": [],
+        "link": "#8mf"
+      },
+      {
+        "title": "1.2 原发性皮肤CD30⁺T细胞淋巴增殖性疾病",
+        "level": 2,
+        "position": 7173,
+        "children": [],
+        "link": "#12-cd30t"
+      },
+      {
+        "title": "1.2.1 概述",
+        "level": 2,
+        "position": 7362,
+        "children": [],
+        "link": "#121"
+      },
+      {
+        "title": "2.4 治疗",
+        "level": 2,
+        "position": 8201,
+        "children": [],
+        "link": "#24"
+      },
+      {
+        "title": "3 小结",
+        "level": 2,
+        "position": 8726,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "参考文献",
+        "level": 2,
+        "position": 9145,
+        "children": [],
+        "link": "#"
+      }
+    ],
+    "link": "#interpretation-of-nccn-clinical-practice-guidelines-for-primary-cutaneous-lymphomas-version-1-2024-based-on-the-current-diagnosis-and-treatment-status-of-china"
+  }
+]

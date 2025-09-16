@@ -1,0 +1,618 @@
+[
+  {
+    "title": "奥妥珠单抗注射液说明书",
+    "level": 1,
+    "position": 62,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药品名称】",
+    "level": 1,
+    "position": 96,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【成份】",
+    "level": 1,
+    "position": 199,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【性状】",
+    "level": 1,
+    "position": 339,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【适应症】",
+    "level": 1,
+    "position": 362,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【规格】",
+    "level": 1,
+    "position": 439,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【用法用量】",
+    "level": 1,
+    "position": 488,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "一般信息",
+    "level": 1,
+    "position": 498,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肿瘤溶解综合征（TLS）的预防及用药",
+    "level": 1,
+    "position": 656,
+    "children": [],
+    "link": "#tls"
+  },
+  {
+    "title": "输液相关反应（IRR）的预防及用药",
+    "level": 1,
+    "position": 867,
+    "children": [],
+    "link": "#irr"
+  },
+  {
+    "title": "标准剂量",
+    "level": 1,
+    "position": 2007,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "延迟或遗漏给药",
+    "level": 1,
+    "position": 3533,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "治疗期间的剂量调整",
+    "level": 1,
+    "position": 3749,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "表4. 针对输液相关反应的输注速率调整指南",
+    "level": 1,
+    "position": 3813,
+    "children": [],
+    "link": "#4"
+  },
+  {
+    "title": "特殊人群",
+    "level": 1,
+    "position": 4356,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肾功能不全",
+    "level": 1,
+    "position": 4400,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "老年人",
+    "level": 1,
+    "position": 4576,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "儿童",
+    "level": 1,
+    "position": 4626,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "使用、操作和处置的特殊说明",
+    "level": 1,
+    "position": 4661,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "稀释和配制说明",
+    "level": 1,
+    "position": 4678,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "输注液的使用与保存",
+    "level": 1,
+    "position": 5186,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "配伍禁忌",
+    "level": 1,
+    "position": 5551,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "未用/过期药品的处置",
+    "level": 1,
+    "position": 5605,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【不良反应】",
+    "level": 1,
+    "position": 5681,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "临床试验",
+    "level": 1,
+    "position": 5691,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "输液相关反应：",
+    "level": 1,
+    "position": 10350,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "中性粒细胞减少症和感染：",
+    "level": 1,
+    "position": 11118,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "血小板减少症和出血事件：",
+    "level": 1,
+    "position": 11420,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "凝血异常（包括弥散性血管内凝血[DIC]）",
+    "level": 1,
+    "position": 11695,
+    "children": [],
+    "link": "#dic"
+  },
+  {
+    "title": "实验室异常",
+    "level": 1,
+    "position": 12571,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "免疫原性",
+    "level": 1,
+    "position": 12619,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "中国亚组安全性结果",
+    "level": 1,
+    "position": 12857,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "上市后用药经验",
+    "level": 1,
+    "position": 13026,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【禁忌】",
+    "level": 1,
+    "position": 13140,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【注意事项】",
+    "level": 1,
+    "position": 13179,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "输液相关反应（IRR）",
+    "level": 1,
+    "position": 13189,
+    "children": [],
+    "link": "#irr"
+  },
+  {
+    "title": "超敏反应",
+    "level": 1,
+    "position": 13920,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肿瘤溶解综合征（TLS）",
+    "level": 1,
+    "position": 14097,
+    "children": [],
+    "link": "#tls"
+  },
+  {
+    "title": "中性粒细胞减少症",
+    "level": 1,
+    "position": 14414,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "血小板减少症",
+    "level": 1,
+    "position": 14772,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "凝血异常（包括弥散性血管内凝血[DIC]）",
+    "level": 1,
+    "position": 15083,
+    "children": [],
+    "link": "#dic"
+  },
+  {
+    "title": "既有心脏疾病加重",
+    "level": 1,
+    "position": 15261,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "感染",
+    "level": 1,
+    "position": 15425,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "乙型肝炎病毒再激活",
+    "level": 1,
+    "position": 15641,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "进行性多灶性脑白质病（PML）",
+    "level": 1,
+    "position": 15891,
+    "children": [],
+    "link": "#pml"
+  },
+  {
+    "title": "免疫接种",
+    "level": 1,
+    "position": 16235,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肾功能受损患者",
+    "level": 1,
+    "position": 16451,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "驾驶和操作机器的能力",
+    "level": 1,
+    "position": 16802,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【孕妇及哺乳期妇女用药】",
+    "level": 1,
+    "position": 16880,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "妊娠",
+    "level": 1,
+    "position": 16896,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "分娩",
+    "level": 1,
+    "position": 17034,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "哺乳",
+    "level": 1,
+    "position": 17050,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "避孕",
+    "level": 1,
+    "position": 17183,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【儿童用药】",
+    "level": 1,
+    "position": 17249,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【老年用药】",
+    "level": 1,
+    "position": 17288,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药物相互作用】",
+    "level": 1,
+    "position": 17384,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药物过量】",
+    "level": 1,
+    "position": 17601,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【临床试验】",
+    "level": 1,
+    "position": 17803,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "初治的滤泡性淋巴瘤",
+    "level": 1,
+    "position": 17813,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "亚组分析的结果",
+    "level": 1,
+    "position": 22126,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "中国亚组有效性结果",
+    "level": 1,
+    "position": 22246,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "患者报告结局",
+    "level": 1,
+    "position": 22888,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "初治的滤泡性淋巴瘤",
+    "level": 1,
+    "position": 22898,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药理毒理】",
+    "level": 1,
+    "position": 23106,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药理作用",
+    "level": 1,
+    "position": 23116,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "毒理研究",
+    "level": 1,
+    "position": 23438,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "遗传毒性",
+    "level": 1,
+    "position": 23446,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "生殖毒性",
+    "level": 1,
+    "position": 23465,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "致癌性",
+    "level": 1,
+    "position": 23834,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药代动力学】",
+    "level": 1,
+    "position": 23852,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "吸收",
+    "level": 1,
+    "position": 23943,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "分布",
+    "level": 1,
+    "position": 24121,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "代谢",
+    "level": 1,
+    "position": 24177,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "消除",
+    "level": 1,
+    "position": 24218,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "特殊人群中的药代动力学",
+    "level": 1,
+    "position": 24484,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "老年人群",
+    "level": 1,
+    "position": 24874,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "儿童人群",
+    "level": 1,
+    "position": 25067,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肾功能受损患者",
+    "level": 1,
+    "position": 25102,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肝功能受损患者",
+    "level": 1,
+    "position": 25562,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【贮藏】",
+    "level": 1,
+    "position": 26496,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【包装】",
+    "level": 1,
+    "position": 26589,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【有效期】",
+    "level": 1,
+    "position": 26608,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药品注册标准】",
+    "level": 1,
+    "position": 26623,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药品批准文号】",
+    "level": 1,
+    "position": 26647,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药品上市许可持有人】",
+    "level": 1,
+    "position": 26675,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【生产企业】",
+    "level": 1,
+    "position": 26767,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【包装厂】",
+    "level": 1,
+    "position": 26859,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【境内联系机构】",
+    "level": 1,
+    "position": 26943,
+    "children": [],
+    "link": "#"
+  }
+]

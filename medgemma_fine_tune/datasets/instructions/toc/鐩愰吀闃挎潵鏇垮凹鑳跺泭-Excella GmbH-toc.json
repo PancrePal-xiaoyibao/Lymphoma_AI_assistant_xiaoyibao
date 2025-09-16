@@ -1,0 +1,695 @@
+[
+  {
+    "title": "盐酸阿来替尼胶囊说明书",
+    "level": 1,
+    "position": 155,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "请仔细阅读说明书并在医师指导下使用",
+    "level": 1,
+    "position": 170,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药品名称】",
+    "level": 1,
+    "position": 191,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【成份】",
+    "level": 1,
+    "position": 302,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【适应症】",
+    "level": 1,
+    "position": 829,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "非小细胞肺癌辅助治疗",
+    "level": 1,
+    "position": 838,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "局部晚期或转移性非小细胞肺癌的治疗",
+    "level": 1,
+    "position": 899,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【规格】",
+    "level": 1,
+    "position": 965,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【用法用量】",
+    "level": 1,
+    "position": 1030,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "患者选择",
+    "level": 1,
+    "position": 1040,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "推荐剂量",
+    "level": 1,
+    "position": 1117,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "治疗持续时间",
+    "level": 1,
+    "position": 1260,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "非小细胞肺癌辅助治疗",
+    "level": 1,
+    "position": 1270,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "局部晚期或转移性非小细胞肺癌的治疗",
+    "level": 1,
+    "position": 1320,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "延误或漏服",
+    "level": 1,
+    "position": 1370,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "剂量调整",
+    "level": 1,
+    "position": 1448,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "表1减量方案",
+    "level": 1,
+    "position": 1608,
+    "children": [],
+    "link": "#1"
+  },
+  {
+    "title": "特殊人群剂量说明",
+    "level": 1,
+    "position": 3291,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【不良反应】",
+    "level": 1,
+    "position": 3655,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "临床试验中的不良反应",
+    "level": 1,
+    "position": 3797,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "有关特定不良反应的进一步信息",
+    "level": 1,
+    "position": 7359,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肝毒性",
+    "level": 1,
+    "position": 7569,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "心动过缓",
+    "level": 1,
+    "position": 8196,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "重度肌痛和CPK升高",
+    "level": 1,
+    "position": 8312,
+    "children": [],
+    "link": "#cpk"
+  },
+  {
+    "title": "溶血性贫血",
+    "level": 1,
+    "position": 8616,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "胃肠道反应",
+    "level": 1,
+    "position": 8690,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "实验室检查异常",
+    "level": 1,
+    "position": 8932,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "研究YO29449安全性数据",
+    "level": 1,
+    "position": 9851,
+    "children": [],
+    "link": "#yo29449"
+  },
+  {
+    "title": "上市后经验",
+    "level": 1,
+    "position": 10043,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【禁忌】",
+    "level": 1,
+    "position": 10113,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【注意事项】",
+    "level": 1,
+    "position": 10146,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "间质性肺病（ILD）/非感染性肺炎",
+    "level": 1,
+    "position": 10156,
+    "children": [],
+    "link": "#ild"
+  },
+  {
+    "title": "肝毒性",
+    "level": 1,
+    "position": 10333,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "重度肌痛和肌酸磷酸激酶（CPK）升高",
+    "level": 1,
+    "position": 10745,
+    "children": [],
+    "link": "#cpk"
+  },
+  {
+    "title": "【用法用量】。",
+    "level": 1,
+    "position": 10988,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肾功能受损",
+    "level": 1,
+    "position": 10999,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "心动过缓",
+    "level": 1,
+    "position": 11105,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "溶血性贫血",
+    "level": 1,
+    "position": 11270,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "光敏性",
+    "level": 1,
+    "position": 11426,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "胚胎-胎儿毒性",
+    "level": 1,
+    "position": 11568,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药物滥用和药物依赖性",
+    "level": 1,
+    "position": 11737,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "驾驶和操作机器的能力",
+    "level": 1,
+    "position": 11754,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【孕妇及哺乳期妇女用药】",
+    "level": 1,
+    "position": 11843,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "具有生育能力的女性和男性",
+    "level": 1,
+    "position": 11859,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "避孕",
+    "level": 1,
+    "position": 11875,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "孕妇",
+    "level": 1,
+    "position": 11971,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "动物数据",
+    "level": 1,
+    "position": 12176,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "生育和分娩",
+    "level": 1,
+    "position": 12219,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "哺乳期妇女",
+    "level": 1,
+    "position": 12251,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【儿童用药】",
+    "level": 1,
+    "position": 12359,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【老年用药】",
+    "level": 1,
+    "position": 12392,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药物相互作用】",
+    "level": 1,
+    "position": 12421,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "阿来替尼对其他药物的作用",
+    "level": 1,
+    "position": 12433,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "CYP底物",
+    "level": 1,
+    "position": 12449,
+    "children": [],
+    "link": "#cyp"
+  },
+  {
+    "title": "P-gp和BCRP底物",
+    "level": 1,
+    "position": 12787,
+    "children": [],
+    "link": "#p-gpbcrp"
+  },
+  {
+    "title": "其他药物对阿来替尼的影响",
+    "level": 1,
+    "position": 12967,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "CYP3A诱导剂",
+    "level": 1,
+    "position": 13083,
+    "children": [],
+    "link": "#cyp3a"
+  },
+  {
+    "title": "CYP3A抑制剂",
+    "level": 1,
+    "position": 13349,
+    "children": [],
+    "link": "#cyp3a"
+  },
+  {
+    "title": "增加胃部pH值的药物",
+    "level": 1,
+    "position": 13617,
+    "children": [],
+    "link": "#ph"
+  },
+  {
+    "title": "转运蛋白对阿来替尼处置的影响",
+    "level": 1,
+    "position": 13801,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药物过量】",
+    "level": 1,
+    "position": 13957,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【临床试验】",
+    "level": 1,
+    "position": 14028,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "ALK 阳性早期非小细胞肺癌术后辅助治疗",
+    "level": 1,
+    "position": 14038,
+    "children": [],
+    "link": "#alk"
+  },
+  {
+    "title": "ALK阳性局部晚期或转移性非小细胞肺癌的治疗",
+    "level": 1,
+    "position": 16769,
+    "children": [],
+    "link": "#alk"
+  },
+  {
+    "title": "既往未接受克唑替尼治疗的患者",
+    "level": 1,
+    "position": 16795,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "研究BO28984",
+    "level": 1,
+    "position": 16813,
+    "children": [],
+    "link": "#bo28984"
+  },
+  {
+    "title": "研究YO29449",
+    "level": 1,
+    "position": 19899,
+    "children": [],
+    "link": "#yo29449"
+  },
+  {
+    "title": "既往接受过克唑替尼治疗的患者",
+    "level": 1,
+    "position": 23293,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "研究NP28673",
+    "level": 1,
+    "position": 23386,
+    "children": [],
+    "link": "#np28673"
+  },
+  {
+    "title": "研究NP28761",
+    "level": 1,
+    "position": 23990,
+    "children": [],
+    "link": "#np28761"
+  },
+  {
+    "title": "【药理毒理】",
+    "level": 1,
+    "position": 26140,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药理作用",
+    "level": 1,
+    "position": 26150,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "毒理研究",
+    "level": 1,
+    "position": 26395,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "一般毒理",
+    "level": 1,
+    "position": 26403,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "遗传毒性",
+    "level": 1,
+    "position": 26922,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "生殖毒性",
+    "level": 1,
+    "position": 26991,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "致癌性",
+    "level": 1,
+    "position": 27649,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "其他",
+    "level": 1,
+    "position": 27668,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药代动力学】",
+    "level": 1,
+    "position": 27819,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "吸收",
+    "level": 1,
+    "position": 28371,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "分布",
+    "level": 1,
+    "position": 28884,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "代谢",
+    "level": 1,
+    "position": 29068,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "清除",
+    "level": 1,
+    "position": 29240,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "儿童",
+    "level": 1,
+    "position": 29556,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "老年人",
+    "level": 1,
+    "position": 29585,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肾功能受损",
+    "level": 1,
+    "position": 29634,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肝功能受损",
+    "level": 1,
+    "position": 29822,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "种族因素",
+    "level": 1,
+    "position": 30558,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "特殊使用、操作和处置要求",
+    "level": 1,
+    "position": 30784,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "未使用/失效药物的处置",
+    "level": 1,
+    "position": 30819,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【包装】",
+    "level": 1,
+    "position": 30911,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【有效期】",
+    "level": 1,
+    "position": 30947,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【执行标准】",
+    "level": 1,
+    "position": 30962,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药品批准文号】",
+    "level": 1,
+    "position": 30984,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【上市许可持有人】",
+    "level": 1,
+    "position": 31012,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【生产企业】",
+    "level": 1,
+    "position": 31114,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【包装厂名称】",
+    "level": 1,
+    "position": 31303,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【境内责任人】",
+    "level": 1,
+    "position": 31471,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【境内联系机构】",
+    "level": 1,
+    "position": 31591,
+    "children": [],
+    "link": "#"
+  }
+]

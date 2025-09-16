@@ -1,0 +1,380 @@
+[
+  {
+    "title": "西达本胺片说明书",
+    "level": 1,
+    "position": 198,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药品名称】",
+    "level": 1,
+    "position": 244,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【成份】",
+    "level": 1,
+    "position": 334,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【性状】",
+    "level": 1,
+    "position": 677,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【适应症】",
+    "level": 1,
+    "position": 695,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【规格】",
+    "level": 1,
+    "position": 1057,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【用法用量】",
+    "level": 1,
+    "position": 1070,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "推荐剂量及方式",
+    "level": 1,
+    "position": 1098,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "乳腺癌",
+    "level": 1,
+    "position": 1247,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "MYC和BCL2表达阳性的既往未经治疗的弥漫大B细胞淋巴瘤（DLBCL）",
+    "level": 1,
+    "position": 1337,
+    "children": [],
+    "link": "#mycbcl2bdlbcl"
+  },
+  {
+    "title": "剂量调整",
+    "level": 1,
+    "position": 1693,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "血液学不良反应的处理和剂量调整",
+    "level": 1,
+    "position": 1727,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "非血液学不良反应的处理和剂量调整",
+    "level": 1,
+    "position": 2960,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "与R-CHOP联用时的不良反应处理和剂量调整",
+    "level": 1,
+    "position": 3261,
+    "children": [],
+    "link": "#r-chop"
+  },
+  {
+    "title": "特殊人群",
+    "level": 1,
+    "position": 5200,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【不良反应】",
+    "level": 1,
+    "position": 5232,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "外周T细胞淋巴瘤（PTCL）",
+    "level": 1,
+    "position": 5332,
+    "children": [],
+    "link": "#tptcl"
+  },
+  {
+    "title": "临床研究不良反应情况",
+    "level": 1,
+    "position": 5520,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "严重不良事件",
+    "level": 1,
+    "position": 13444,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "上市后应用不良事件报道",
+    "level": 1,
+    "position": 14299,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "乳腺癌",
+    "level": 1,
+    "position": 20064,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "MYC和BCL2表达阳性的既往未经治疗的弥漫大B细胞淋巴瘤",
+    "level": 1,
+    "position": 23308,
+    "children": [],
+    "link": "#mycbcl2b"
+  },
+  {
+    "title": "【禁忌】",
+    "level": 1,
+    "position": 26848,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【注意事项】",
+    "level": 1,
+    "position": 26926,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "一般注意事项",
+    "level": 1,
+    "position": 26936,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "特别注意事项",
+    "level": 1,
+    "position": 32156,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【孕妇及哺乳期妇女用药】",
+    "level": 1,
+    "position": 35502,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "妊娠",
+    "level": 1,
+    "position": 35518,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "哺乳期妇女",
+    "level": 1,
+    "position": 35737,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【儿童用药】",
+    "level": 1,
+    "position": 35783,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【老年用药】",
+    "level": 1,
+    "position": 35833,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药物相互作用】",
+    "level": 1,
+    "position": 35997,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药物过量】",
+    "level": 1,
+    "position": 36733,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【临床药理】",
+    "level": 1,
+    "position": 36923,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药代动力学",
+    "level": 1,
+    "position": 36933,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "分布",
+    "level": 1,
+    "position": 38726,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "代谢和清除",
+    "level": 1,
+    "position": 38861,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "特殊人群",
+    "level": 1,
+    "position": 39300,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【临床试验】",
+    "level": 1,
+    "position": 39596,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "外周T细胞淋巴瘤",
+    "level": 1,
+    "position": 39606,
+    "children": [],
+    "link": "#t"
+  },
+  {
+    "title": "总生存期",
+    "level": 1,
+    "position": 42750,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "乳腺癌",
+    "level": 1,
+    "position": 43059,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "MYC和BCL2表达阳性的既往未经治疗的弥漫大B细胞淋巴瘤",
+    "level": 1,
+    "position": 47178,
+    "children": [],
+    "link": "#mycbcl2b"
+  },
+  {
+    "title": "图1MYC和BCL2表达阳性的DLBCLIII期试验无事件生存期的KaplanMeier曲线（ITT）",
+    "level": 1,
+    "position": 51948,
+    "children": [],
+    "link": "#1mycbcl2dlbcliiikaplanmeieritt"
+  },
+  {
+    "title": "【药理毒理】",
+    "level": 1,
+    "position": 52067,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药理毒理",
+    "level": 1,
+    "position": 52077,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药理作用",
+    "level": 1,
+    "position": 52085,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "毒理研究",
+    "level": 1,
+    "position": 52440,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【贮藏】",
+    "level": 1,
+    "position": 53528,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【包装】",
+    "level": 1,
+    "position": 53596,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【有效期】",
+    "level": 1,
+    "position": 53657,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【批准文号】",
+    "level": 1,
+    "position": 53692,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【上市许可持有人】",
+    "level": 1,
+    "position": 53717,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【生产企业】",
+    "level": 1,
+    "position": 53824,
+    "children": [],
+    "link": "#"
+  }
+]

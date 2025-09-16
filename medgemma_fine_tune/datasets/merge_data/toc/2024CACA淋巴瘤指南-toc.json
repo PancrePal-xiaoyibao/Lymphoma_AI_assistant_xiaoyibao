@@ -1,0 +1,396 @@
+[
+  {
+    "title": "名誉主编",
+    "level": 2,
+    "position": 36,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "主 编",
+    "level": 2,
+    "position": 49,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "副主编",
+    "level": 2,
+    "position": 61,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "编 委（姓氏笔画排序）",
+    "level": 2,
+    "position": 97,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "免疫缺陷相关性淋巴组织增生性疾病",
+    "level": 2,
+    "position": 4432,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "组织细胞及树突细胞肿瘤",
+    "level": 2,
+    "position": 4573,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "第二章",
+    "level": 1,
+    "position": 4725,
+    "children": [
+      {
+        "title": "霍奇金淋巴瘤",
+        "level": 2,
+        "position": 4732,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "第一节 病理诊断",
+        "level": 2,
+        "position": 5200,
+        "children": [
+          {
+            "title": "1 切除活检",
+            "level": 4,
+            "position": 5213,
+            "children": [],
+            "link": "#1"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "4.5 心脏超声",
+        "level": 2,
+        "position": 5523,
+        "children": [],
+        "link": "#45"
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "title": "第四节 预后评价",
+    "level": 1,
+    "position": 5585,
+    "children": [
+      {
+        "title": "1 早期（I-II期）HL患者",
+        "level": 3,
+        "position": 5599,
+        "children": [],
+        "link": "#1-i-iihl"
+      },
+      {
+        "title": "2 早期（I - II期）HL患者",
+        "level": 3,
+        "position": 5720,
+        "children": [],
+        "link": "#2-i-iihl"
+      },
+      {
+        "title": "3 晚期（Ⅲ-Ⅳ期）HL患者",
+        "level": 3,
+        "position": 5891,
+        "children": [],
+        "link": "#3-hl"
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "title": "第三章",
+    "level": 1,
+    "position": 6422,
+    "children": [
+      {
+        "title": "弥漫大B细胞淋巴瘤",
+        "level": 2,
+        "position": 6428,
+        "children": [],
+        "link": "#b"
+      },
+      {
+        "title": "第一节 病理诊断",
+        "level": 2,
+        "position": 6441,
+        "children": [
+          {
+            "title": "第二节 分期",
+            "level": 3,
+            "position": 7260,
+            "children": [],
+            "link": "#"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "第三节 治疗前评估",
+        "level": 2,
+        "position": 7324,
+        "children": [
+          {
+            "title": "1 实验室检查",
+            "level": 3,
+            "position": 7338,
+            "children": [
+              {
+                "title": "1.1 实验室检查",
+                "level": 4,
+                "position": 7351,
+                "children": [],
+                "link": "#11"
+              },
+              {
+                "title": "1.2 脑脊液常规、生化、细胞学和墨汁染色检查",
+                "level": 4,
+                "position": 7447,
+                "children": [],
+                "link": "#12"
+              },
+              {
+                "title": "1.3 其他",
+                "level": 4,
+                "position": 7728,
+                "children": [],
+                "link": "#13"
+              }
+            ],
+            "link": "#1"
+          },
+          {
+            "title": "2 影像学及其他辅助检查",
+            "level": 3,
+            "position": 7777,
+            "children": [],
+            "link": "#2"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "第四节 预后评价",
+        "level": 2,
+        "position": 7843,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "第四节 预后评价",
+        "level": 2,
+        "position": 11392,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "原发胃MALT淋巴瘤",
+        "level": 2,
+        "position": 11682,
+        "children": [
+          {
+            "title": "I - II 1期",
+            "level": 3,
+            "position": 11697,
+            "children": [],
+            "link": "#i-ii-1"
+          },
+          {
+            "title": "II E、II 2和IV期",
+            "level": 3,
+            "position": 11940,
+            "children": [],
+            "link": "#ii-eii-2iv"
+          },
+          {
+            "title": "初治患者",
+            "level": 3,
+            "position": 12011,
+            "children": [],
+            "link": "#"
+          }
+        ],
+        "link": "#malt"
+      },
+      {
+        "title": "2.4 二线及二线以后的治疗",
+        "level": 2,
+        "position": 12525,
+        "children": [],
+        "link": "#24"
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "title": "第六章",
+    "level": 1,
+    "position": 12750,
+    "children": [
+      {
+        "title": "套细胞淋巴瘤",
+        "level": 2,
+        "position": 12757,
+        "children": [
+          {
+            "title": "第一节 流行病学",
+            "level": 3,
+            "position": 12773,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "第二节 预防及筛查",
+            "level": 3,
+            "position": 13014,
+            "children": [
+              {
+                "title": "1 预防",
+                "level": 4,
+                "position": 13029,
+                "children": [],
+                "link": "#1"
+              },
+              {
+                "title": "2 筛查",
+                "level": 4,
+                "position": 13138,
+                "children": [],
+                "link": "#2"
+              }
+            ],
+            "link": "#"
+          },
+          {
+            "title": "第三节 诊断",
+            "level": 3,
+            "position": 13249,
+            "children": [
+              {
+                "title": "1 病理诊断",
+                "level": 4,
+                "position": 13261,
+                "children": [],
+                "link": "#1"
+              },
+              {
+                "title": "第四节 分期",
+                "level": 4,
+                "position": 15273,
+                "children": [],
+                "link": "#"
+              },
+              {
+                "title": "第五节 治疗前评估",
+                "level": 4,
+                "position": 16366,
+                "children": [],
+                "link": "#"
+              }
+            ],
+            "link": "#"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "5 康复",
+        "level": 2,
+        "position": 16510,
+        "children": [],
+        "link": "#5"
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "title": "第七章",
+    "level": 1,
+    "position": 16757,
+    "children": [
+      {
+        "title": "慢性淋巴细胞白血病/小淋巴细胞淋巴瘤",
+        "level": 2,
+        "position": 16763,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "第一节 病理诊断",
+        "level": 2,
+        "position": 16903,
+        "children": [
+          {
+            "title": "1 诊断",
+            "level": 4,
+            "position": 16916,
+            "children": [],
+            "link": "#1"
+          },
+          {
+            "title": "2 鉴别诊断",
+            "level": 4,
+            "position": 17715,
+            "children": [],
+            "link": "#2"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "6 随访",
+        "level": 2,
+        "position": 17927,
+        "children": [],
+        "link": "#6"
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "title": "第八章 T细胞淋巴瘤",
+    "level": 1,
+    "position": 18095,
+    "children": [
+      {
+        "title": "第一节 病理诊断",
+        "level": 2,
+        "position": 18109,
+        "children": [
+          {
+            "title": "1 外周T细胞淋巴瘤-非特指型病理诊断",
+            "level": 3,
+            "position": 18122,
+            "children": [],
+            "link": "#1-t"
+          },
+          {
+            "title": "2 NK/T细胞淋巴瘤病理诊断",
+            "level": 3,
+            "position": 18402,
+            "children": [],
+            "link": "#2-nkt"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "3.2 复发或难治性患者的治疗",
+        "level": 2,
+        "position": 18819,
+        "children": [],
+        "link": "#32"
+      }
+    ],
+    "link": "#t"
+  }
+]

@@ -1,0 +1,2470 @@
+[
+  {
+    "title": "淋巴瘤诊疗指南2023",
+    "level": 1,
+    "position": 1,
+    "children": [
+      {
+        "title": "中国临床肿瘤学会(CSCO)",
+        "level": 2,
+        "position": 15,
+        "children": [],
+        "link": "#csco"
+      },
+      {
+        "title": "总则 • 649",
+        "level": 2,
+        "position": 1089,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 649",
+            "level": 3,
+            "position": 1101,
+            "children": [],
+            "link": "#1-649"
+          },
+          {
+            "title": "2 分期 • 649",
+            "level": 3,
+            "position": 1119,
+            "children": [],
+            "link": "#2-649"
+          },
+          {
+            "title": "3 治疗 • 649",
+            "level": 3,
+            "position": 1134,
+            "children": [],
+            "link": "#3-649"
+          },
+          {
+            "title": "4 疗效评价 • 649",
+            "level": 3,
+            "position": 1149,
+            "children": [],
+            "link": "#4-649"
+          },
+          {
+            "title": "5 预后评估 • 649",
+            "level": 3,
+            "position": 1166,
+            "children": [],
+            "link": "#5-649"
+          },
+          {
+            "title": "6 随访 • 649",
+            "level": 3,
+            "position": 1183,
+            "children": [],
+            "link": "#6-649"
+          }
+        ],
+        "link": "#649"
+      },
+      {
+        "title": "淋巴瘤病理学诊断 • 650",
+        "level": 2,
+        "position": 1198,
+        "children": [
+          {
+            "title": "1 淋巴瘤的分类与诊断原则 • 650",
+            "level": 3,
+            "position": 1216,
+            "children": [],
+            "link": "#1-650"
+          },
+          {
+            "title": "2 活检与制片 • 650",
+            "level": 3,
+            "position": 1240,
+            "children": [],
+            "link": "#2-650"
+          },
+          {
+            "title": "3 组织病理学检查 • 651",
+            "level": 3,
+            "position": 1258,
+            "children": [],
+            "link": "#3-651"
+          },
+          {
+            "title": "4 流式细胞术分析 • 652",
+            "level": 3,
+            "position": 1278,
+            "children": [],
+            "link": "#4-652"
+          },
+          {
+            "title": "5 遗传学与分子病理检测 • 652",
+            "level": 3,
+            "position": 1298,
+            "children": [],
+            "link": "#5-652"
+          }
+        ],
+        "link": "#650"
+      },
+      {
+        "title": "弥漫性大B细胞淋巴瘤 • 654",
+        "level": 2,
+        "position": 1321,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 654",
+            "level": 3,
+            "position": 1341,
+            "children": [],
+            "link": "#1-654"
+          },
+          {
+            "title": "2 病理诊断 • 654",
+            "level": 3,
+            "position": 1359,
+            "children": [],
+            "link": "#2-654"
+          },
+          {
+            "title": "3 分期 • 655",
+            "level": 3,
+            "position": 1376,
+            "children": [],
+            "link": "#3-655"
+          },
+          {
+            "title": "4 治疗 • 655",
+            "level": 3,
+            "position": 1391,
+            "children": [],
+            "link": "#4-655"
+          }
+        ],
+        "link": "#b-654"
+      },
+      {
+        "title": "高级别B细胞淋巴瘤 • 660",
+        "level": 2,
+        "position": 1406,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 660",
+            "level": 3,
+            "position": 1425,
+            "children": [],
+            "link": "#1-660"
+          },
+          {
+            "title": "2 病理诊断 • 660",
+            "level": 3,
+            "position": 1443,
+            "children": [],
+            "link": "#2-660"
+          },
+          {
+            "title": "3 分期 • 661",
+            "level": 3,
+            "position": 1460,
+            "children": [],
+            "link": "#3-661"
+          },
+          {
+            "title": "4 治疗 • 661",
+            "level": 3,
+            "position": 1475,
+            "children": [],
+            "link": "#4-661"
+          }
+        ],
+        "link": "#b-660"
+      },
+      {
+        "title": "原发纵隔(胸腺)大B细胞淋巴瘤 • 662",
+        "level": 2,
+        "position": 1490,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 662",
+            "level": 3,
+            "position": 1515,
+            "children": [],
+            "link": "#1-662"
+          },
+          {
+            "title": "2 病理诊断 • 663",
+            "level": 3,
+            "position": 1533,
+            "children": [],
+            "link": "#2-663"
+          },
+          {
+            "title": "3 分期 • 663",
+            "level": 3,
+            "position": 1550,
+            "children": [],
+            "link": "#3-663"
+          },
+          {
+            "title": "4 治疗 • 663",
+            "level": 3,
+            "position": 1565,
+            "children": [],
+            "link": "#4-663"
+          }
+        ],
+        "link": "#b-662"
+      },
+      {
+        "title": "原发乳腺弥漫性大B细胞淋巴瘤 • 664",
+        "level": 2,
+        "position": 1580,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 664",
+            "level": 3,
+            "position": 1604,
+            "children": [],
+            "link": "#1-664"
+          },
+          {
+            "title": "2 病理诊断 • 665",
+            "level": 3,
+            "position": 1622,
+            "children": [],
+            "link": "#2-665"
+          },
+          {
+            "title": "3 分期 • 665",
+            "level": 3,
+            "position": 1639,
+            "children": [],
+            "link": "#3-665"
+          },
+          {
+            "title": "4 治疗 • 665",
+            "level": 3,
+            "position": 1654,
+            "children": [],
+            "link": "#4-665"
+          },
+          {
+            "title": "5 预后评估 • 666",
+            "level": 3,
+            "position": 1669,
+            "children": [],
+            "link": "#5-666"
+          }
+        ],
+        "link": "#b-664"
+      },
+      {
+        "title": "原发睾丸弥漫性大B细胞淋巴瘤 • 666",
+        "level": 2,
+        "position": 1686,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 666",
+            "level": 3,
+            "position": 1710,
+            "children": [],
+            "link": "#1-666"
+          },
+          {
+            "title": "2 病理诊断 • 666",
+            "level": 3,
+            "position": 1728,
+            "children": [],
+            "link": "#2-666"
+          },
+          {
+            "title": "3 分期 • 667",
+            "level": 3,
+            "position": 1745,
+            "children": [],
+            "link": "#3-667"
+          },
+          {
+            "title": "4 治疗 • 667",
+            "level": 3,
+            "position": 1760,
+            "children": [],
+            "link": "#4-667"
+          }
+        ],
+        "link": "#b-666"
+      },
+      {
+        "title": "原发中枢神经系统淋巴瘤 • 667",
+        "level": 2,
+        "position": 1775,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 667",
+            "level": 3,
+            "position": 1796,
+            "children": [],
+            "link": "#1-667"
+          },
+          {
+            "title": "2 病理诊断 • 668",
+            "level": 3,
+            "position": 1814,
+            "children": [],
+            "link": "#2-668"
+          },
+          {
+            "title": "3 分期 • 669",
+            "level": 3,
+            "position": 1831,
+            "children": [],
+            "link": "#3-669"
+          },
+          {
+            "title": "4 治疗 • 669",
+            "level": 3,
+            "position": 1846,
+            "children": [],
+            "link": "#4-669"
+          }
+        ],
+        "link": "#667"
+      },
+      {
+        "title": "滤泡性淋巴瘤 • 673",
+        "level": 2,
+        "position": 1862,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 673",
+            "level": 3,
+            "position": 1878,
+            "children": [],
+            "link": "#1-673"
+          },
+          {
+            "title": "2 病理诊断 • 673",
+            "level": 3,
+            "position": 1896,
+            "children": [],
+            "link": "#2-673"
+          },
+          {
+            "title": "3 分期 • 674",
+            "level": 3,
+            "position": 1913,
+            "children": [],
+            "link": "#3-674"
+          },
+          {
+            "title": "4 治疗 • 674",
+            "level": 3,
+            "position": 1928,
+            "children": [],
+            "link": "#4-674"
+          },
+          {
+            "title": "5 预后评估 • 677",
+            "level": 3,
+            "position": 1943,
+            "children": [],
+            "link": "#5-677"
+          }
+        ],
+        "link": "#673"
+      },
+      {
+        "title": "套细胞淋巴瘤 • 678",
+        "level": 2,
+        "position": 1961,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 678",
+            "level": 3,
+            "position": 1977,
+            "children": [],
+            "link": "#1-678"
+          },
+          {
+            "title": "2 病理诊断 • 679",
+            "level": 3,
+            "position": 1995,
+            "children": [],
+            "link": "#2-679"
+          },
+          {
+            "title": "3 分期 • 679",
+            "level": 3,
+            "position": 2012,
+            "children": [],
+            "link": "#3-679"
+          },
+          {
+            "title": "4 治疗 • 679",
+            "level": 3,
+            "position": 2027,
+            "children": [],
+            "link": "#4-679"
+          },
+          {
+            "title": "5 预后评估 • 682",
+            "level": 3,
+            "position": 2042,
+            "children": [],
+            "link": "#5-682"
+          }
+        ],
+        "link": "#678"
+      },
+      {
+        "title": "边缘区淋巴瘤 • 683",
+        "level": 2,
+        "position": 2060,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 683",
+            "level": 3,
+            "position": 2076,
+            "children": [],
+            "link": "#1-683"
+          },
+          {
+            "title": "2 病理诊断 • 684",
+            "level": 3,
+            "position": 2094,
+            "children": [],
+            "link": "#2-684"
+          },
+          {
+            "title": "3 分期 • 685",
+            "level": 3,
+            "position": 2111,
+            "children": [],
+            "link": "#3-685"
+          },
+          {
+            "title": "4 治疗 • 685",
+            "level": 3,
+            "position": 2126,
+            "children": [],
+            "link": "#4-685"
+          }
+        ],
+        "link": "#683"
+      },
+      {
+        "title": "外周T细胞淋巴瘤 • 687",
+        "level": 2,
+        "position": 2142,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 687",
+            "level": 3,
+            "position": 2160,
+            "children": [],
+            "link": "#1-687"
+          },
+          {
+            "title": "2 病理诊断 • 688",
+            "level": 3,
+            "position": 2178,
+            "children": [],
+            "link": "#2-688"
+          },
+          {
+            "title": "3 分期 • 688",
+            "level": 3,
+            "position": 2195,
+            "children": [],
+            "link": "#3-688"
+          },
+          {
+            "title": "4 治疗 • 688",
+            "level": 3,
+            "position": 2210,
+            "children": [],
+            "link": "#4-688"
+          }
+        ],
+        "link": "#t-687"
+      },
+      {
+        "title": "结外NK/T细胞淋巴瘤,鼻型 • 692",
+        "level": 2,
+        "position": 2226,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 692",
+            "level": 3,
+            "position": 2250,
+            "children": [],
+            "link": "#1-692"
+          },
+          {
+            "title": "2 病理诊断 • 693",
+            "level": 3,
+            "position": 2268,
+            "children": [],
+            "link": "#2-693"
+          },
+          {
+            "title": "3 分期和风险分层 • 693",
+            "level": 3,
+            "position": 2285,
+            "children": [],
+            "link": "#3-693"
+          },
+          {
+            "title": "4 治疗 • 694",
+            "level": 3,
+            "position": 2305,
+            "children": [],
+            "link": "#4-694"
+          },
+          {
+            "title": "5 预后评估 • 696",
+            "level": 3,
+            "position": 2320,
+            "children": [],
+            "link": "#5-696"
+          }
+        ],
+        "link": "#nkt-692"
+      },
+      {
+        "title": "伯基特淋巴瘤 • 697",
+        "level": 2,
+        "position": 2338,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 697",
+            "level": 3,
+            "position": 2354,
+            "children": [],
+            "link": "#1-697"
+          },
+          {
+            "title": "2 病理诊断 • 697",
+            "level": 3,
+            "position": 2372,
+            "children": [],
+            "link": "#2-697"
+          },
+          {
+            "title": "3 分期 • 697",
+            "level": 3,
+            "position": 2389,
+            "children": [],
+            "link": "#3-697"
+          },
+          {
+            "title": "4 治疗 • 698",
+            "level": 3,
+            "position": 2404,
+            "children": [],
+            "link": "#4-698"
+          }
+        ],
+        "link": "#697"
+      },
+      {
+        "title": "霍奇金淋巴瘤 • 700",
+        "level": 2,
+        "position": 2420,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 700",
+            "level": 3,
+            "position": 2436,
+            "children": [],
+            "link": "#1-700"
+          },
+          {
+            "title": "2 病理诊断 • 700",
+            "level": 3,
+            "position": 2454,
+            "children": [],
+            "link": "#2-700"
+          },
+          {
+            "title": "3 分期 • 700",
+            "level": 3,
+            "position": 2471,
+            "children": [],
+            "link": "#3-700"
+          },
+          {
+            "title": "4 治疗 • 700",
+            "level": 3,
+            "position": 2486,
+            "children": [],
+            "link": "#4-700"
+          },
+          {
+            "title": "5 疗效评价 • 703",
+            "level": 3,
+            "position": 2501,
+            "children": [],
+            "link": "#5-703"
+          },
+          {
+            "title": "6 预后评估 • 703",
+            "level": 3,
+            "position": 2518,
+            "children": [],
+            "link": "#6-703"
+          }
+        ],
+        "link": "#700"
+      },
+      {
+        "title": "慢性淋巴细胞性白血病 • 704",
+        "level": 2,
+        "position": 2536,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 704",
+            "level": 3,
+            "position": 2556,
+            "children": [],
+            "link": "#1-704"
+          },
+          {
+            "title": "2 诊断 • 704",
+            "level": 3,
+            "position": 2574,
+            "children": [],
+            "link": "#2-704"
+          }
+        ],
+        "link": "#704"
+      },
+      {
+        "title": "4 治疗 • 706",
+        "level": 2,
+        "position": 2620,
+        "children": [],
+        "link": "#4-706"
+      },
+      {
+        "title": "5 预后评估 • 710",
+        "level": 2,
+        "position": 2634,
+        "children": [],
+        "link": "#5-710"
+      },
+      {
+        "title": "Castleman病 • 710",
+        "level": 2,
+        "position": 2650,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 710",
+            "level": 3,
+            "position": 2670,
+            "children": [],
+            "link": "#1-710"
+          },
+          {
+            "title": "2 病理诊断 • 710",
+            "level": 3,
+            "position": 2688,
+            "children": [],
+            "link": "#2-710"
+          },
+          {
+            "title": "3 分型 • 711",
+            "level": 3,
+            "position": 2705,
+            "children": [],
+            "link": "#3-711"
+          },
+          {
+            "title": "4 治疗 • 711",
+            "level": 3,
+            "position": 2720,
+            "children": [],
+            "link": "#4-711"
+          }
+        ],
+        "link": "#castleman-710"
+      },
+      {
+        "title": "原发性皮肤淋巴瘤 • 712",
+        "level": 2,
+        "position": 2735,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 712",
+            "level": 3,
+            "position": 2753,
+            "children": [],
+            "link": "#1-712"
+          },
+          {
+            "title": "2 病理诊断 • 713",
+            "level": 3,
+            "position": 2771,
+            "children": [],
+            "link": "#2-713"
+          },
+          {
+            "title": "3 分型 • 713",
+            "level": 3,
+            "position": 2788,
+            "children": [],
+            "link": "#3-713"
+          },
+          {
+            "title": "4 分期 • 714",
+            "level": 3,
+            "position": 2803,
+            "children": [],
+            "link": "#4-714"
+          },
+          {
+            "title": "5 治疗 • 717",
+            "level": 3,
+            "position": 2818,
+            "children": [],
+            "link": "#5-717"
+          },
+          {
+            "title": "6 危险分层 • 718",
+            "level": 3,
+            "position": 2833,
+            "children": [],
+            "link": "#6-718"
+          }
+        ],
+        "link": "#712"
+      },
+      {
+        "title": "免疫检查点抑制剂在淋巴瘤中的应用 • 719",
+        "level": 2,
+        "position": 2850,
+        "children": [
+          {
+            "title": "1 治疗前评估 • 719",
+            "level": 3,
+            "position": 2876,
+            "children": [],
+            "link": "#1-719"
+          },
+          {
+            "title": "2 治疗 • 719",
+            "level": 3,
+            "position": 2894,
+            "children": [],
+            "link": "#2-719"
+          },
+          {
+            "title": "3 疗效评价 • 720",
+            "level": 3,
+            "position": 2909,
+            "children": [],
+            "link": "#3-720"
+          },
+          {
+            "title": "4 不良反应的管理 • 721",
+            "level": 3,
+            "position": 2926,
+            "children": [],
+            "link": "#4-721"
+          }
+        ],
+        "link": "#719"
+      },
+      {
+        "title": "淋巴瘤临床试验 • 721",
+        "level": 2,
+        "position": 2946,
+        "children": [
+          {
+            "title": "1 概述 • 721",
+            "level": 3,
+            "position": 2963,
+            "children": [],
+            "link": "#1-721"
+          },
+          {
+            "title": "2 分类 • 721",
+            "level": 3,
+            "position": 2978,
+            "children": [],
+            "link": "#2-721"
+          },
+          {
+            "title": "3 受试者保护 • 722",
+            "level": 3,
+            "position": 2993,
+            "children": [],
+            "link": "#3-722"
+          },
+          {
+            "title": "4 单个临床试验的考虑 • 722",
+            "level": 3,
+            "position": 3011,
+            "children": [],
+            "link": "#4-722"
+          },
+          {
+            "title": "5 淋巴瘤临床试验的特殊考虑 • 722",
+            "level": 3,
+            "position": 3033,
+            "children": [],
+            "link": "#5-722"
+          }
+        ],
+        "link": "#721"
+      },
+      {
+        "title": "附录 • 723",
+        "level": 2,
+        "position": 3058,
+        "children": [
+          {
+            "title": "附录1 2014版Lugano分期标准 • 723",
+            "level": 3,
+            "position": 3070,
+            "children": [],
+            "link": "#1-2014lugano-723"
+          },
+          {
+            "title": "附录2 2014版Lugano评效标准 • 724",
+            "level": 3,
+            "position": 3100,
+            "children": [],
+            "link": "#2-2014lugano-724"
+          },
+          {
+            "title": "附录3 IPI评分 • 726",
+            "level": 3,
+            "position": 3130,
+            "children": [],
+            "link": "#3-ipi-726"
+          },
+          {
+            "title": "附录4 2022年第5版WHO淋巴组织增生及肿瘤分类 • 726<|end_of_box|>",
+            "level": 3,
+            "position": 3150,
+            "children": [],
+            "link": "#4-20225who-726end_of_box"
+          }
+        ],
+        "link": "#723"
+      }
+    ],
+    "link": "#2023"
+  },
+  {
+    "title": "总则",
+    "level": 1,
+    "position": 3202,
+    "children": [
+      {
+        "title": "1 治疗前评估",
+        "level": 2,
+        "position": 3377,
+        "children": [],
+        "link": "#1"
+      },
+      {
+        "title": "2 分期",
+        "level": 2,
+        "position": 3884,
+        "children": [],
+        "link": "#2"
+      },
+      {
+        "title": "3 治疗",
+        "level": 2,
+        "position": 4041,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 疗效评价",
+        "level": 2,
+        "position": 4335,
+        "children": [],
+        "link": "#4"
+      },
+      {
+        "title": "5 预后评估",
+        "level": 2,
+        "position": 4542,
+        "children": [],
+        "link": "#5"
+      },
+      {
+        "title": "6 随访",
+        "level": 2,
+        "position": 4699,
+        "children": [],
+        "link": "#6"
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "title": "淋巴瘤病理学诊断",
+    "level": 1,
+    "position": 4767,
+    "children": [
+      {
+        "title": "1 淋巴瘤的分类与诊断原则",
+        "level": 2,
+        "position": 4944,
+        "children": [],
+        "link": "#1"
+      },
+      {
+        "title": "2 活检与制片",
+        "level": 2,
+        "position": 5440,
+        "children": [
+          {
+            "title": "2.1 标本获得",
+            "level": 3,
+            "position": 5452,
+            "children": [],
+            "link": "#21"
+          },
+          {
+            "title": "2.2 组织处理",
+            "level": 3,
+            "position": 5981,
+            "children": [],
+            "link": "#22"
+          },
+          {
+            "title": "2.3 切片制作",
+            "level": 3,
+            "position": 6518,
+            "children": [],
+            "link": "#23"
+          }
+        ],
+        "link": "#2"
+      },
+      {
+        "title": "3 组织病理学检查",
+        "level": 2,
+        "position": 7034,
+        "children": [
+          {
+            "title": "3.1 组织学形态分析",
+            "level": 3,
+            "position": 7047,
+            "children": [],
+            "link": "#31"
+          },
+          {
+            "title": "3.2 免疫组化检查",
+            "level": 3,
+            "position": 7388,
+            "children": [
+              {
+                "title": "3.2.1 免疫组化的作用",
+                "level": 4,
+                "position": 7403,
+                "children": [],
+                "link": "#321"
+              }
+            ],
+            "link": "#32"
+          }
+        ],
+        "link": "#3"
+      },
+      {
+        "title": "4 流式细胞术分析",
+        "level": 2,
+        "position": 8644,
+        "children": [],
+        "link": "#4"
+      },
+      {
+        "title": "5 遗传学与分子病理检测",
+        "level": 2,
+        "position": 9021,
+        "children": [
+          {
+            "title": "5.1 克隆性 IG 和 TCR 基因重排检测",
+            "level": 3,
+            "position": 9289,
+            "children": [
+              {
+                "title": "5.1.1 方法",
+                "level": 4,
+                "position": 9318,
+                "children": [],
+                "link": "#511"
+              },
+              {
+                "title": "5.1.2 适用范围",
+                "level": 4,
+                "position": 9399,
+                "children": [],
+                "link": "#512"
+              }
+            ],
+            "link": "#51-ig-tcr"
+          }
+        ],
+        "link": "#5"
+      },
+      {
+        "title": "5.2 FISH 法检测非随机性染色体和基因异常",
+        "level": 2,
+        "position": 10232,
+        "children": [],
+        "link": "#52-fish"
+      },
+      {
+        "title": "5.3 EBER 原位杂交检测",
+        "level": 2,
+        "position": 11053,
+        "children": [],
+        "link": "#53-eber"
+      },
+      {
+        "title": "弥漫性大B细胞淋巴瘤",
+        "level": 2,
+        "position": 11266,
+        "children": [],
+        "link": "#b"
+      },
+      {
+        "title": "1 治疗前评估",
+        "level": 2,
+        "position": 11281,
+        "children": [],
+        "link": "#1"
+      },
+      {
+        "title": "2 病理诊断",
+        "level": 2,
+        "position": 12037,
+        "children": [],
+        "link": "#2"
+      },
+      {
+        "title": "3 分期",
+        "level": 2,
+        "position": 13729,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 治疗",
+        "level": 2,
+        "position": 13761,
+        "children": [
+          {
+            "title": "4.1 初治患者：基于年龄和预后的分层治疗",
+            "level": 3,
+            "position": 13769,
+            "children": [],
+            "link": "#41"
+          }
+        ],
+        "link": "#4"
+      },
+      {
+        "title": "4.2 复发 / 难治患者（适用于初发时接受足量利妥昔单抗和蒽环类化疗的患者）",
+        "level": 2,
+        "position": 17111,
+        "children": [],
+        "link": "#42"
+      },
+      {
+        "title": "4.3 附：治疗方案汇总",
+        "level": 2,
+        "position": 18821,
+        "children": [],
+        "link": "#43"
+      },
+      {
+        "title": "二线治疗方案",
+        "level": 2,
+        "position": 20106,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "R-ESHAP 方案",
+        "level": 2,
+        "position": 20834,
+        "children": [],
+        "link": "#r-eshap"
+      },
+      {
+        "title": "R-GemOx 方案",
+        "level": 2,
+        "position": 20961,
+        "children": [],
+        "link": "#r-gemox"
+      },
+      {
+        "title": "R-MINE 方案",
+        "level": 2,
+        "position": 21046,
+        "children": [],
+        "link": "#r-mine"
+      },
+      {
+        "title": "R² 方案",
+        "level": 2,
+        "position": 21163,
+        "children": [],
+        "link": "#r"
+      },
+      {
+        "title": "iR2 方案",
+        "level": 2,
+        "position": 21224,
+        "children": [],
+        "link": "#ir2"
+      },
+      {
+        "title": "Pola-BR 方案",
+        "level": 2,
+        "position": 21302,
+        "children": [],
+        "link": "#pola-br"
+      },
+      {
+        "title": "BR 方案",
+        "level": 2,
+        "position": 21389,
+        "children": [],
+        "link": "#br"
+      },
+      {
+        "title": "Tafasitamab + 来那度胺方案",
+        "level": 2,
+        "position": 21450,
+        "children": [],
+        "link": "#tafasitamab"
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "title": "高级别B细胞淋巴瘤",
+    "level": 1,
+    "position": 21699,
+    "children": [
+      {
+        "title": "1 治疗前评估",
+        "level": 3,
+        "position": 21712,
+        "children": [],
+        "link": "#1"
+      },
+      {
+        "title": "2 病理诊断",
+        "level": 3,
+        "position": 22558,
+        "children": [],
+        "link": "#2"
+      },
+      {
+        "title": "3 分期",
+        "level": 2,
+        "position": 23647,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 治疗",
+        "level": 2,
+        "position": 23681,
+        "children": [
+          {
+            "title": "4.1 高级别B细胞淋巴瘤,伴有MYC和BCL2易位",
+            "level": 3,
+            "position": 23690,
+            "children": [],
+            "link": "#41-bmycbcl2"
+          },
+          {
+            "title": "4.2 高级别B细胞淋巴瘤,非特指",
+            "level": 3,
+            "position": 24672,
+            "children": [],
+            "link": "#42-b"
+          }
+        ],
+        "link": "#4"
+      },
+      {
+        "title": "原发纵隔(胸腺)大 B 细胞淋巴瘤[1-9]",
+        "level": 2,
+        "position": 26943,
+        "children": [
+          {
+            "title": "1 治疗前评估",
+            "level": 3,
+            "position": 26970,
+            "children": [],
+            "link": "#1"
+          }
+        ],
+        "link": "#b-1-9"
+      },
+      {
+        "title": "3 分期",
+        "level": 2,
+        "position": 29577,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 治疗",
+        "level": 2,
+        "position": 29616,
+        "children": [
+          {
+            "title": "4.1 初治患者",
+            "level": 3,
+            "position": 29625,
+            "children": [],
+            "link": "#41"
+          },
+          {
+            "title": "4.2 复发 / 难治患者",
+            "level": 3,
+            "position": 29984,
+            "children": [],
+            "link": "#42"
+          }
+        ],
+        "link": "#4"
+      },
+      {
+        "title": "原发乳腺弥漫性大B细胞淋巴瘤",
+        "level": 2,
+        "position": 31774,
+        "children": [],
+        "link": "#b"
+      }
+    ],
+    "link": "#b"
+  },
+  {
+    "title": "1 治疗前评估",
+    "level": 1,
+    "position": 31793,
+    "children": [
+      {
+        "title": "2 病理诊断",
+        "level": 2,
+        "position": 33167,
+        "children": [],
+        "link": "#2"
+      },
+      {
+        "title": "3 分期",
+        "level": 2,
+        "position": 33445,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 治疗",
+        "level": 2,
+        "position": 33557,
+        "children": [
+          {
+            "title": "4.1 初治患者",
+            "level": 3,
+            "position": 33565,
+            "children": [],
+            "link": "#41"
+          }
+        ],
+        "link": "#4"
+      },
+      {
+        "title": "4.2 复发/难治患者",
+        "level": 2,
+        "position": 34440,
+        "children": [],
+        "link": "#42"
+      },
+      {
+        "title": "5 预后评估",
+        "level": 2,
+        "position": 34500,
+        "children": [],
+        "link": "#5"
+      },
+      {
+        "title": "原发性睾丸弥漫性大B细胞淋巴瘤",
+        "level": 2,
+        "position": 34668,
+        "children": [],
+        "link": "#b"
+      },
+      {
+        "title": "1 治疗前评估",
+        "level": 2,
+        "position": 34690,
+        "children": [],
+        "link": "#1"
+      },
+      {
+        "title": "2 病理诊断",
+        "level": 2,
+        "position": 35925,
+        "children": [],
+        "link": "#2"
+      },
+      {
+        "title": "3 分期",
+        "level": 2,
+        "position": 37180,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 治疗",
+        "level": 2,
+        "position": 37215,
+        "children": [
+          {
+            "title": "原发中枢神经系统淋巴瘤",
+            "level": 3,
+            "position": 38956,
+            "children": [],
+            "link": "#"
+          }
+        ],
+        "link": "#4"
+      },
+      {
+        "title": "1 治疗前评估",
+        "level": 2,
+        "position": 38975,
+        "children": [],
+        "link": "#1"
+      },
+      {
+        "title": "2 病理诊断",
+        "level": 2,
+        "position": 40716,
+        "children": [],
+        "link": "#2"
+      },
+      {
+        "title": "3 分期",
+        "level": 2,
+        "position": 41522,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 治疗",
+        "level": 2,
+        "position": 41584,
+        "children": [
+          {
+            "title": "4.1 初治患者",
+            "level": 3,
+            "position": 41592,
+            "children": [],
+            "link": "#41"
+          }
+        ],
+        "link": "#4"
+      },
+      {
+        "title": "4.2 复发/难治患者",
+        "level": 2,
+        "position": 42968,
+        "children": [],
+        "link": "#42"
+      },
+      {
+        "title": "5 预后评估",
+        "level": 2,
+        "position": 44469,
+        "children": [
+          {
+            "title": "IELSG 预后指数",
+            "level": 3,
+            "position": 44530,
+            "children": [],
+            "link": "#ielsg"
+          },
+          {
+            "title": "Memorial Sloan-Kettering Cancer Center 预后模型",
+            "level": 3,
+            "position": 44865,
+            "children": [],
+            "link": "#memorial-sloan-kettering-cancer-center"
+          }
+        ],
+        "link": "#5"
+      },
+      {
+        "title": "滤泡性淋巴瘤",
+        "level": 2,
+        "position": 45094,
+        "children": [],
+        "link": "#"
+      }
+    ],
+    "link": "#1"
+  },
+  {
+    "title": "1 治疗前评估",
+    "level": 1,
+    "position": 45105,
+    "children": [],
+    "link": "#1"
+  },
+  {
+    "title": "2 病理诊断",
+    "level": 1,
+    "position": 46245,
+    "children": [
+      {
+        "title": "3 分期",
+        "level": 2,
+        "position": 48425,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 治疗",
+        "level": 2,
+        "position": 48458,
+        "children": [
+          {
+            "title": "4.1 FL1~3a级一线治疗基本原则",
+            "level": 3,
+            "position": 48467,
+            "children": [],
+            "link": "#41-fl13a"
+          }
+        ],
+        "link": "#4"
+      },
+      {
+        "title": "4.2 FL1~3a级一线免疫化疗方案",
+        "level": 2,
+        "position": 48906,
+        "children": [],
+        "link": "#42-fl13a"
+      },
+      {
+        "title": "4.3 复发/难治FL(FL1~3a级)的治疗",
+        "level": 2,
+        "position": 50815,
+        "children": [
+          {
+            "title": "5.1 GELF高瘤负荷标准",
+            "level": 3,
+            "position": 52413,
+            "children": [],
+            "link": "#51-gelf"
+          }
+        ],
+        "link": "#43-flfl13a"
+      },
+      {
+        "title": "5.2 滤泡性淋巴瘤国际预后指数(FLIPI)",
+        "level": 2,
+        "position": 54111,
+        "children": [],
+        "link": "#52-flipi"
+      },
+      {
+        "title": "5.3 滤泡性淋巴瘤国际预后指数2(FLIPI-2)",
+        "level": 2,
+        "position": 54396,
+        "children": [],
+        "link": "#53-2flipi-2"
+      },
+      {
+        "title": "套细胞淋巴瘤",
+        "level": 2,
+        "position": 54845,
+        "children": [
+          {
+            "title": "1 治疗前评估",
+            "level": 3,
+            "position": 54856,
+            "children": [],
+            "link": "#1"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "2 病理诊断",
+        "level": 2,
+        "position": 55663,
+        "children": [],
+        "link": "#2"
+      },
+      {
+        "title": "3 分期",
+        "level": 2,
+        "position": 56937,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 治疗",
+        "level": 2,
+        "position": 56971,
+        "children": [
+          {
+            "title": "4.1 初治MCL的治疗",
+            "level": 3,
+            "position": 56980,
+            "children": [],
+            "link": "#41-mcl"
+          }
+        ],
+        "link": "#4"
+      },
+      {
+        "title": "【注释】",
+        "level": 2,
+        "position": 58440,
+        "children": [
+          {
+            "title": "• R-CHOP/R-DHAP 方案",
+            "level": 3,
+            "position": 58448,
+            "children": [],
+            "link": "#r-chopr-dhap"
+          },
+          {
+            "title": "• R- 大剂量 CHOP/R- 大剂量阿糖胞苷方案",
+            "level": 3,
+            "position": 58773,
+            "children": [],
+            "link": "#r-chopr"
+          },
+          {
+            "title": "• R-HyperCVAD 方案",
+            "level": 3,
+            "position": 59041,
+            "children": [],
+            "link": "#r-hypercvad"
+          },
+          {
+            "title": "• R- 苯达莫司汀 /R- 大剂量阿糖胞苷方案",
+            "level": 3,
+            "position": 59479,
+            "children": [],
+            "link": "#r-r"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "4.2 复发/难治MCL的治疗",
+        "level": 2,
+        "position": 59665,
+        "children": [],
+        "link": "#42-mcl"
+      },
+      {
+        "title": "5 预后评估",
+        "level": 2,
+        "position": 62305,
+        "children": [],
+        "link": "#5"
+      }
+    ],
+    "link": "#2"
+  },
+  {
+    "title": "边缘区淋巴瘤",
+    "level": 1,
+    "position": 62962,
+    "children": [
+      {
+        "title": "1 治疗前评估",
+        "level": 2,
+        "position": 62972,
+        "children": [],
+        "link": "#1"
+      },
+      {
+        "title": "4 治疗",
+        "level": 2,
+        "position": 69406,
+        "children": [],
+        "link": "#4"
+      },
+      {
+        "title": "【注释】",
+        "level": 2,
+        "position": 71258,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "外周T细胞淋巴瘤",
+        "level": 2,
+        "position": 75116,
+        "children": [],
+        "link": "#t"
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "title": "1 治疗前评估",
+    "level": 1,
+    "position": 75129,
+    "children": [
+      {
+        "title": "2 病理诊断",
+        "level": 2,
+        "position": 76106,
+        "children": [],
+        "link": "#2"
+      },
+      {
+        "title": "3 分期",
+        "level": 2,
+        "position": 77680,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 治疗",
+        "level": 2,
+        "position": 77714,
+        "children": [
+          {
+            "title": "4.1 初治患者的治疗",
+            "level": 3,
+            "position": 77723,
+            "children": [],
+            "link": "#41"
+          }
+        ],
+        "link": "#4"
+      },
+      {
+        "title": "【注释】",
+        "level": 2,
+        "position": 78703,
+        "children": [
+          {
+            "title": "CHOP 方案",
+            "level": 3,
+            "position": 78712,
+            "children": [],
+            "link": "#chop"
+          },
+          {
+            "title": "CHOEP 方案",
+            "level": 3,
+            "position": 78816,
+            "children": [],
+            "link": "#choep"
+          },
+          {
+            "title": "DA-EPOCH 方案",
+            "level": 3,
+            "position": 78941,
+            "children": [],
+            "link": "#da-epoch"
+          },
+          {
+            "title": "DA-EPOCH 剂量调整原则",
+            "level": 3,
+            "position": 79115,
+            "children": [],
+            "link": "#da-epoch"
+          },
+          {
+            "title": "维布妥昔单抗 + CHP 方案",
+            "level": 3,
+            "position": 79416,
+            "children": [],
+            "link": "#chp"
+          },
+          {
+            "title": "Hyper CVAD/MA 方案",
+            "level": 3,
+            "position": 79519,
+            "children": [
+              {
+                "title": "[A 方案]",
+                "level": 4,
+                "position": 79541,
+                "children": [],
+                "link": "#a"
+              },
+              {
+                "title": "[B 方案]",
+                "level": 4,
+                "position": 79729,
+                "children": [],
+                "link": "#b"
+              }
+            ],
+            "link": "#hyper-cvadma"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "4.2 复发/难治患者的治疗",
+        "level": 2,
+        "position": 80901,
+        "children": [],
+        "link": "#42"
+      },
+      {
+        "title": "DHAP 方案",
+        "level": 2,
+        "position": 82170,
+        "children": [],
+        "link": "#dhap"
+      },
+      {
+        "title": "ESHAP 方案",
+        "level": 2,
+        "position": 82272,
+        "children": [],
+        "link": "#eshap"
+      },
+      {
+        "title": "GDP 方案",
+        "level": 2,
+        "position": 82369,
+        "children": [],
+        "link": "#gdp"
+      },
+      {
+        "title": "GemOx 方案",
+        "level": 2,
+        "position": 82440,
+        "children": [],
+        "link": "#gemox"
+      },
+      {
+        "title": "ICE 方案",
+        "level": 2,
+        "position": 82498,
+        "children": [],
+        "link": "#ice"
+      },
+      {
+        "title": "来那度胺方案",
+        "level": 2,
+        "position": 82607,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "硼替佐米方案",
+        "level": 2,
+        "position": 82646,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "盐酸米托蒽醌脂质体方案",
+        "level": 2,
+        "position": 82693,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "度维利塞方案",
+        "level": 2,
+        "position": 82761,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "林普利塞方案",
+        "level": 2,
+        "position": 82801,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "芦可替尼方案",
+        "level": 2,
+        "position": 82841,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "阿来替尼方案",
+        "level": 2,
+        "position": 82881,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "结外NK/T细胞淋巴瘤,鼻型",
+        "level": 2,
+        "position": 83920,
+        "children": [],
+        "link": "#nkt"
+      },
+      {
+        "title": "1 治疗前评估",
+        "level": 2,
+        "position": 83939,
+        "children": [],
+        "link": "#1"
+      },
+      {
+        "title": "3 分期和风险分层",
+        "level": 2,
+        "position": 86083,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 治疗",
+        "level": 2,
+        "position": 87226,
+        "children": [],
+        "link": "#4"
+      },
+      {
+        "title": "4.1 初治Ⅰ~Ⅱ期NKTCL治疗策略",
+        "level": 2,
+        "position": 87308,
+        "children": [],
+        "link": "#41-nktcl"
+      },
+      {
+        "title": "4.2 初治Ⅲ~Ⅳ期及复发 / 难治 NKTCL 治疗策略",
+        "level": 2,
+        "position": 88506,
+        "children": [],
+        "link": "#42-nktcl"
+      }
+    ],
+    "link": "#1"
+  },
+  {
+    "title": "伯基特淋巴瘤",
+    "level": 1,
+    "position": 90734,
+    "children": [
+      {
+        "title": "1 治疗前评估",
+        "level": 2,
+        "position": 90744,
+        "children": [],
+        "link": "#1"
+      },
+      {
+        "title": "2 病理诊断",
+        "level": 2,
+        "position": 91593,
+        "children": [],
+        "link": "#2"
+      },
+      {
+        "title": "3 分期",
+        "level": 2,
+        "position": 92992,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "CNS 预防",
+        "level": 2,
+        "position": 94824,
+        "children": [],
+        "link": "#cns"
+      },
+      {
+        "title": "A 方案:第 1,3,5,7 疗程",
+        "level": 2,
+        "position": 94951,
+        "children": [],
+        "link": "#a-1357"
+      },
+      {
+        "title": "B 方案:第 2,4,6,8 疗程",
+        "level": 2,
+        "position": 95170,
+        "children": [],
+        "link": "#b-2468"
+      },
+      {
+        "title": "每疗程 21 天,共 6~8 疗程",
+        "level": 2,
+        "position": 95466,
+        "children": [],
+        "link": "#21-68"
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "title": "霍奇金淋巴瘤",
+    "level": 1,
+    "position": 95937,
+    "children": [
+      {
+        "title": "1 治疗前评估",
+        "level": 2,
+        "position": 95947,
+        "children": [],
+        "link": "#1"
+      },
+      {
+        "title": "2 病理诊断",
+        "level": 2,
+        "position": 96645,
+        "children": [],
+        "link": "#2"
+      },
+      {
+        "title": "3 分期",
+        "level": 2,
+        "position": 97539,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 治疗",
+        "level": 2,
+        "position": 97574,
+        "children": [
+          {
+            "title": "4.1 经典型霍奇金淋巴瘤",
+            "level": 3,
+            "position": 97585,
+            "children": [],
+            "link": "#41"
+          }
+        ],
+        "link": "#4"
+      },
+      {
+        "title": "4.2 复发/难治性经典型霍奇金淋巴瘤",
+        "level": 2,
+        "position": 100236,
+        "children": [
+          {
+            "title": "A+AVD 方案(每 28 天重复)",
+            "level": 3,
+            "position": 100260,
+            "children": [],
+            "link": "#aavd-28"
+          },
+          {
+            "title": "增强剂量 BEACOPP 方案(每 21 天重复)",
+            "level": 3,
+            "position": 100577,
+            "children": [],
+            "link": "#beacopp-21"
+          }
+        ],
+        "link": "#42"
+      },
+      {
+        "title": "4.3 结节性淋巴细胞为主型霍奇金淋巴瘤",
+        "level": 2,
+        "position": 102618,
+        "children": [],
+        "link": "#43"
+      },
+      {
+        "title": "4.4 老年经典型霍奇金淋巴瘤",
+        "level": 2,
+        "position": 102884,
+        "children": [],
+        "link": "#44"
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "title": "5 疗效评价",
+    "level": 1,
+    "position": 103045,
+    "children": [],
+    "link": "#5"
+  },
+  {
+    "title": "6 预后评估",
+    "level": 1,
+    "position": 103521,
+    "children": [
+      {
+        "title": "6.1 Ⅰ~Ⅱ期霍奇金淋巴瘤不良预后因素",
+        "level": 2,
+        "position": 103532,
+        "children": [],
+        "link": "#61"
+      },
+      {
+        "title": "6.2 Ⅲ~Ⅳ期霍奇金淋巴瘤国际预后评分(International Prognostic Score, IPS)",
+        "level": 2,
+        "position": 104339,
+        "children": [],
+        "link": "#62-international-prognostic-score-ips"
+      }
+    ],
+    "link": "#6"
+  },
+  {
+    "title": "慢性淋巴细胞性白血病",
+    "level": 1,
+    "position": 104484,
+    "children": [
+      {
+        "title": "1 治疗前评估",
+        "level": 2,
+        "position": 104498,
+        "children": [],
+        "link": "#1"
+      },
+      {
+        "title": "2 诊断",
+        "level": 2,
+        "position": 105673,
+        "children": [],
+        "link": "#2"
+      },
+      {
+        "title": "3 分期",
+        "level": 2,
+        "position": 106791,
+        "children": [],
+        "link": "#3"
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "title": "4 治疗",
+    "level": 1,
+    "position": 108168,
+    "children": [
+      {
+        "title": "4.1 初治患者",
+        "level": 2,
+        "position": 108176,
+        "children": [],
+        "link": "#41"
+      },
+      {
+        "title": "4.2 复发/难治患者",
+        "level": 2,
+        "position": 111559,
+        "children": [],
+        "link": "#42"
+      },
+      {
+        "title": "Castleman病 [1-12]",
+        "level": 2,
+        "position": 115529,
+        "children": [
+          {
+            "title": "1 治疗前评估",
+            "level": 3,
+            "position": 115551,
+            "children": [],
+            "link": "#1"
+          },
+          {
+            "title": "2 病理诊断",
+            "level": 3,
+            "position": 115970,
+            "children": [],
+            "link": "#2"
+          }
+        ],
+        "link": "#castleman-1-12"
+      },
+      {
+        "title": "3 分型",
+        "level": 2,
+        "position": 116326,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 治疗",
+        "level": 2,
+        "position": 116687,
+        "children": [
+          {
+            "title": "4.1 UCD的治疗",
+            "level": 3,
+            "position": 116696,
+            "children": [],
+            "link": "#41-ucd"
+          },
+          {
+            "title": "4.2 MCD的治疗",
+            "level": 3,
+            "position": 117361,
+            "children": [],
+            "link": "#42-mcd"
+          }
+        ],
+        "link": "#4"
+      },
+      {
+        "title": "4.3 难治性或进展性CD",
+        "level": 2,
+        "position": 118537,
+        "children": [],
+        "link": "#43-cd"
+      }
+    ],
+    "link": "#4"
+  },
+  {
+    "title": "原发性皮肤淋巴瘤",
+    "level": 1,
+    "position": 119074,
+    "children": [
+      {
+        "title": "1 治疗前评估",
+        "level": 2,
+        "position": 119086,
+        "children": [],
+        "link": "#1"
+      },
+      {
+        "title": "2 病理诊断",
+        "level": 2,
+        "position": 120288,
+        "children": [],
+        "link": "#2"
+      },
+      {
+        "title": "3 分型",
+        "level": 2,
+        "position": 122044,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 分期",
+        "level": 2,
+        "position": 122260,
+        "children": [],
+        "link": "#4"
+      },
+      {
+        "title": "非MF/SS TNM分期",
+        "level": 2,
+        "position": 125252,
+        "children": [],
+        "link": "#mfss-tnm"
+      },
+      {
+        "title": "5 治疗",
+        "level": 2,
+        "position": 125899,
+        "children": [],
+        "link": "#5"
+      },
+      {
+        "title": "6 危险分层",
+        "level": 2,
+        "position": 127639,
+        "children": [
+          {
+            "title": "1 治疗前评估a",
+            "level": 3,
+            "position": 128343,
+            "children": [],
+            "link": "#1-a"
+          },
+          {
+            "title": "2 治疗",
+            "level": 3,
+            "position": 129591,
+            "children": [],
+            "link": "#2"
+          }
+        ],
+        "link": "#6"
+      },
+      {
+        "title": "续表",
+        "level": 2,
+        "position": 130499,
+        "children": [
+          {
+            "title": "3 疗效评价",
+            "level": 3,
+            "position": 132307,
+            "children": [],
+            "link": "#3"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "淋巴瘤临床试验",
+        "level": 2,
+        "position": 132533,
+        "children": [
+          {
+            "title": "1 概述",
+            "level": 3,
+            "position": 132545,
+            "children": [],
+            "link": "#1"
+          },
+          {
+            "title": "2 分类",
+            "level": 3,
+            "position": 132883,
+            "children": [],
+            "link": "#2"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "4 不良反应的管理",
+        "level": 2,
+        "position": 133491,
+        "children": [],
+        "link": "#4"
+      },
+      {
+        "title": "3 受试者保护",
+        "level": 2,
+        "position": 134354,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "4 单个临床试验的考虑",
+        "level": 2,
+        "position": 134694,
+        "children": [],
+        "link": "#4"
+      },
+      {
+        "title": "5 淋巴瘤临床试验的特殊考虑",
+        "level": 2,
+        "position": 135269,
+        "children": [],
+        "link": "#5"
+      },
+      {
+        "title": "附录",
+        "level": 2,
+        "position": 136955,
+        "children": [
+          {
+            "title": "附录1 2014版Lugano分期标准",
+            "level": 3,
+            "position": 136963,
+            "children": [],
+            "link": "#1-2014lugano"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "附录3 IPI评分",
+        "level": 2,
+        "position": 142218,
+        "children": [],
+        "link": "#3-ipi"
+      },
+      {
+        "title": "附录4 2022年第5版WHO淋巴组织增生及肿瘤分类",
+        "level": 2,
+        "position": 142425,
+        "children": [
+          {
+            "title": "滤泡性淋巴瘤",
+            "level": 3,
+            "position": 143427,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "皮肤滤泡中心淋巴瘤",
+            "level": 3,
+            "position": 143480,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "套细胞淋巴瘤",
+            "level": 3,
+            "position": 143507,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "惰性 B 细胞淋巴瘤转化",
+            "level": 3,
+            "position": 143549,
+            "children": [],
+            "link": "#b"
+          },
+          {
+            "title": "大 B 细胞淋巴瘤",
+            "level": 3,
+            "position": 143579,
+            "children": [],
+            "link": "#b"
+          },
+          {
+            "title": "伯基特淋巴瘤",
+            "level": 3,
+            "position": 143923,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "KSHV/HHV8 相关性 B 细胞淋巴组织增生及淋巴瘤",
+            "level": 3,
+            "position": 143941,
+            "children": [],
+            "link": "#kshvhhv8-b"
+          },
+          {
+            "title": "免疫缺陷及失调相关性淋巴组织增生及淋巴瘤",
+            "level": 3,
+            "position": 144035,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "霍奇金淋巴瘤",
+            "level": 3,
+            "position": 144153,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "肠道T细胞及NK细胞淋巴组织增生及淋巴瘤",
+            "level": 3,
+            "position": 144239,
+            "children": [],
+            "link": "#tnk"
+          },
+          {
+            "title": "肝脾T细胞淋巴瘤",
+            "level": 3,
+            "position": 144345,
+            "children": [],
+            "link": "#t"
+          },
+          {
+            "title": "间变性大细胞淋巴瘤",
+            "level": 3,
+            "position": 144369,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "淋巴结滤泡辅助T(TFH)细胞淋巴瘤",
+            "level": 3,
+            "position": 144437,
+            "children": [],
+            "link": "#ttfh"
+          },
+          {
+            "title": "其他外周T细胞淋巴瘤",
+            "level": 3,
+            "position": 144519,
+            "children": [],
+            "link": "#t"
+          },
+          {
+            "title": "EBV阳性NK细胞及T细胞淋巴瘤",
+            "level": 3,
+            "position": 144549,
+            "children": [],
+            "link": "#ebvnkt"
+          },
+          {
+            "title": "儿童EBV阳性T细胞及NK细胞淋巴组织增生及淋巴瘤",
+            "level": 3,
+            "position": 144606,
+            "children": [],
+            "link": "#ebvtnk"
+          }
+        ],
+        "link": "#4-20225who"
+      },
+      {
+        "title": "淋巴组织间质源性肿瘤",
+        "level": 2,
+        "position": 144701,
+        "children": [
+          {
+            "title": "间叶树突细胞肿瘤",
+            "level": 3,
+            "position": 144715,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "肌纤维母细胞性肿瘤",
+            "level": 3,
+            "position": 144772,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "脾特异性血管-间质肿瘤",
+            "level": 3,
+            "position": 144803,
+            "children": [],
+            "link": "#"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "树突细胞及组织细胞肿瘤",
+        "level": 2,
+        "position": 144853,
+        "children": [
+          {
+            "title": "浆细胞样树突细胞肿瘤",
+            "level": 3,
+            "position": 144868,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "朗格汉斯细胞及其他树突细胞肿瘤",
+            "level": 3,
+            "position": 144924,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "组织细胞/巨噬细胞肿瘤",
+            "level": 3,
+            "position": 145022,
+            "children": [],
+            "link": "#"
+          }
+        ],
+        "link": "#"
+      }
+    ],
+    "link": "#"
+  }
+]

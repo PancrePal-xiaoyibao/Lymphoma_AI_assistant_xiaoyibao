@@ -1,0 +1,401 @@
+[
+  {
+    "title": "【药物名称】",
+    "level": 1,
+    "position": 194,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【性状】",
+    "level": 1,
+    "position": 747,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【适应症】",
+    "level": 1,
+    "position": 772,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【规格】",
+    "level": 1,
+    "position": 923,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【用法用量】",
+    "level": 1,
+    "position": 1014,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "既往接受过系统性治疗的pcALCL或MF",
+    "level": 1,
+    "position": 1396,
+    "children": [],
+    "link": "#pcalclmf"
+  },
+  {
+    "title": "用法",
+    "level": 1,
+    "position": 1622,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "一般注意事项",
+    "level": 1,
+    "position": 1628,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "复溶说明",
+    "level": 1,
+    "position": 1682,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "输注溶液配制",
+    "level": 1,
+    "position": 2051,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "确定剂量",
+    "level": 1,
+    "position": 2502,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "剂量调整",
+    "level": 1,
+    "position": 3523,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "周围神经病变",
+    "level": 1,
+    "position": 4223,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "特殊人群",
+    "level": 1,
+    "position": 4715,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【不良反应】",
+    "level": 1,
+    "position": 5050,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "临床研究经验",
+    "level": 1,
+    "position": 5191,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "经典型霍奇金淋巴瘤（研究SG035-0003）",
+    "level": 1,
+    "position": 5201,
+    "children": [],
+    "link": "#sg035-0003"
+  },
+  {
+    "title": "原发性皮肤间变性大细胞淋巴瘤或蕈样真菌病（研究C25001）",
+    "level": 1,
+    "position": 11352,
+    "children": [],
+    "link": "#c25001"
+  },
+  {
+    "title": "免疫原性",
+    "level": 1,
+    "position": 14657,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "上市后用药经验",
+    "level": 1,
+    "position": 15243,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【注意事项】",
+    "level": 1,
+    "position": 15693,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "周围神经病变",
+    "level": 1,
+    "position": 15703,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "速发过敏反应和输液相关反应",
+    "level": 1,
+    "position": 16135,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "血液毒性",
+    "level": 1,
+    "position": 16317,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "严重感染和机会性感染",
+    "level": 1,
+    "position": 16528,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肿瘤溶解综合征",
+    "level": 1,
+    "position": 16629,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "重度肾损害患者的毒性增加",
+    "level": 1,
+    "position": 16686,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "中度或重度肝损害患者的毒性增加",
+    "level": 1,
+    "position": 16870,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肝毒性",
+    "level": 1,
+    "position": 16990,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "进行性多灶性白质脑病",
+    "level": 1,
+    "position": 17176,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肺毒性",
+    "level": 1,
+    "position": 17424,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "严重皮肤反应",
+    "level": 1,
+    "position": 17559,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "胃肠道并发症",
+    "level": 1,
+    "position": 17664,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "高血糖",
+    "level": 1,
+    "position": 17822,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "胚胎一胎儿毒性",
+    "level": 1,
+    "position": 18032,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "辅料中的钠盐",
+    "level": 1,
+    "position": 18286,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【孕妇及哺乳期妇女用药】",
+    "level": 1,
+    "position": 18351,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "育龄期妇女",
+    "level": 1,
+    "position": 18367,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "妊娠",
+    "level": 1,
+    "position": 18418,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "哺乳",
+    "level": 1,
+    "position": 18578,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "生育能力",
+    "level": 1,
+    "position": 18674,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【儿童用药】",
+    "level": 1,
+    "position": 18814,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【老年用药】",
+    "level": 1,
+    "position": 18845,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药物相互作用】",
+    "level": 1,
+    "position": 18918,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药物过量】",
+    "level": 1,
+    "position": 19291,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【临床试验】",
+    "level": 1,
+    "position": 19375,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "经典型霍奇金淋巴瘤：研究SG035-0003",
+    "level": 1,
+    "position": 19385,
+    "children": [],
+    "link": "#sg035-0003"
+  },
+  {
+    "title": "系统性间变性大细胞淋巴瘤：研究SG035-0004",
+    "level": 1,
+    "position": 23079,
+    "children": [],
+    "link": "#sg035-0004"
+  },
+  {
+    "title": "原发性皮肤间变性大细胞淋巴瘤或蕈样真菌病：研究C25001",
+    "level": 1,
+    "position": 25826,
+    "children": [],
+    "link": "#c25001"
+  },
+  {
+    "title": "【药理毒理】",
+    "level": 1,
+    "position": 28281,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "毒理研究",
+    "level": 1,
+    "position": 28643,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "遗传毒性",
+    "level": 1,
+    "position": 28651,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "生殖毒性",
+    "level": 1,
+    "position": 28752,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "致癌性",
+    "level": 1,
+    "position": 29432,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药代动力学】",
+    "level": 1,
+    "position": 29463,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "特殊人群药代动力学",
+    "level": 1,
+    "position": 30921,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【国内联系机构】",
+    "level": 1,
+    "position": 32232,
+    "children": [],
+    "link": "#"
+  }
+]

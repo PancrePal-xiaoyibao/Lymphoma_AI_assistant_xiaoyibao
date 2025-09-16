@@ -1,0 +1,149 @@
+[
+  {
+    "title": "药品成分：",
+    "level": 1,
+    "position": 38,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "化学成分：",
+    "level": 1,
+    "position": 53,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "性状：",
+    "level": 1,
+    "position": 92,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "适应症：",
+    "level": 1,
+    "position": 112,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "用法用量：",
+    "level": 1,
+    "position": 192,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "不良反应：",
+    "level": 1,
+    "position": 1007,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "禁忌：",
+    "level": 1,
+    "position": 1694,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "注意事项：",
+    "level": 1,
+    "position": 1705,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药物过量：",
+    "level": 1,
+    "position": 2873,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "用药人群：",
+    "level": 1,
+    "position": 3004,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药物相互作用：",
+    "level": 1,
+    "position": 3534,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "生产企业：",
+    "level": 1,
+    "position": 3760,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药品本位码：",
+    "level": 1,
+    "position": 3793,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "临床试验：",
+    "level": 1,
+    "position": 3849,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药代动力学：",
+    "level": 1,
+    "position": 5079,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "剂型：",
+    "level": 1,
+    "position": 5552,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "规格：",
+    "level": 1,
+    "position": 5563,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "包装：",
+    "level": 1,
+    "position": 5587,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "储藏：",
+    "level": 1,
+    "position": 5645,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "有效期：",
+    "level": 1,
+    "position": 5680,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "批准文号：",
+    "level": 1,
+    "position": 5721,
+    "children": [],
+    "link": "#"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "title": "套细胞淋巴瘤诊断与治疗中国指南(2022年版)",
+    "level": 1,
+    "position": 1,
+    "children": [
+      {
+        "title": "一、定义",
+        "level": 2,
+        "position": 294,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "二、诊断、鉴别诊断、分期和预后",
+        "level": 2,
+        "position": 450,
+        "children": [
+          {
+            "title": "(一)诊断",
+            "level": 3,
+            "position": 470,
+            "children": [
+              {
+                "title": "5. 诊断与分型",
+                "level": 4,
+                "position": 748,
+                "children": [],
+                "link": "#5"
+              }
+            ],
+            "link": "#"
+          },
+          {
+            "title": "（二）鉴别诊断",
+            "level": 3,
+            "position": 1359,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "（三）",
+            "level": 3,
+            "position": 1455,
+            "children": [],
+            "link": "#"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "三、治疗",
+        "level": 2,
+        "position": 1464,
+        "children": [
+          {
+            "title": "（一）治疗指征",
+            "level": 3,
+            "position": 1474,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "（二）治疗前评估",
+            "level": 3,
+            "position": 1642,
+            "children": [],
+            "link": "#"
+          },
+          {
+            "title": "（三）一线治疗",
+            "level": 3,
+            "position": 2212,
+            "children": [
+              {
+                "title": "3. 维持治疗",
+                "level": 4,
+                "position": 3531,
+                "children": [],
+                "link": "#3"
+              }
+            ],
+            "link": "#"
+          },
+          {
+            "title": "(四)挽救治疗",
+            "level": 3,
+            "position": 3839,
+            "children": [],
+            "link": "#"
+          }
+        ],
+        "link": "#"
+      },
+      {
+        "title": "表3 初治套细胞淋巴瘤治疗方案",
+        "level": 2,
+        "position": 4257,
+        "children": [],
+        "link": "#3"
+      },
+      {
+        "title": "四、疗效评价",
+        "level": 2,
+        "position": 5184,
+        "children": [],
+        "link": "#"
+      },
+      {
+        "title": "五、随访",
+        "level": 2,
+        "position": 5373,
+        "children": [],
+        "link": "#"
+      }
+    ],
+    "link": "#2022"
+  }
+]

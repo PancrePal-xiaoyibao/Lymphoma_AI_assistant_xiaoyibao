@@ -1,0 +1,786 @@
+[
+  {
+    "title": "伊布替尼胶囊说明书",
+    "level": 1,
+    "position": 218,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药品名称】",
+    "level": 1,
+    "position": 263,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【成份】",
+    "level": 1,
+    "position": 354,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【性状】",
+    "level": 1,
+    "position": 869,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【适应症】",
+    "level": 1,
+    "position": 926,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【规格】",
+    "level": 1,
+    "position": 1097,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【用法用量】",
+    "level": 1,
+    "position": 1112,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "用法",
+    "level": 1,
+    "position": 1122,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "推荐用量",
+    "level": 1,
+    "position": 1203,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "套细胞淋巴瘤（MCL）",
+    "level": 1,
+    "position": 1211,
+    "children": [],
+    "link": "#mcl"
+  },
+  {
+    "title": "慢性淋巴细胞白血病（CLL）/小淋巴细胞淋巴瘤（SLL）和华氏巨球蛋白血症（WM）",
+    "level": 1,
+    "position": 1310,
+    "children": [],
+    "link": "#cllsllwm"
+  },
+  {
+    "title": "出现不良反应时的剂量调整",
+    "level": 1,
+    "position": 1502,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "心力衰竭或心律失常事件的推荐剂量调整如下所述：",
+    "level": 1,
+    "position": 2239,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "与P4503A（CYP3A）酶抑制剂同时给药时的剂量调整",
+    "level": 1,
+    "position": 2970,
+    "children": [],
+    "link": "#p4503acyp3a"
+  },
+  {
+    "title": "肝损伤患者用药时的剂量调整",
+    "level": 1,
+    "position": 3706,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "凝服剂量",
+    "level": 1,
+    "position": 3851,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "特殊人群用药",
+    "level": 1,
+    "position": 3915,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肝损伤",
+    "level": 1,
+    "position": 3925,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "育龄女性和男性",
+    "level": 1,
+    "position": 4123,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "妊娠试验",
+    "level": 1,
+    "position": 4134,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "避孕",
+    "level": 1,
+    "position": 4169,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "女性",
+    "level": 1,
+    "position": 4175,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "男性",
+    "level": 1,
+    "position": 4342,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "血浆置换",
+    "level": 1,
+    "position": 4379,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【不良反应】",
+    "level": 1,
+    "position": 4439,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "临床试验经验",
+    "level": 1,
+    "position": 4561,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "套细胞淋巴瘤",
+    "level": 1,
+    "position": 4667,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "不良反应导致的停药和减量",
+    "level": 1,
+    "position": 4876,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "试验PCYC-1104-CA",
+    "level": 1,
+    "position": 4989,
+    "children": [],
+    "link": "#pcyc-1104-ca"
+  },
+  {
+    "title": "试验MCL-3001",
+    "level": 1,
+    "position": 7709,
+    "children": [],
+    "link": "#mcl-3001"
+  },
+  {
+    "title": "慢性淋巴细胞白血病(CLL)/小淋巴细胞淋巴瘤(SLL)",
+    "level": 1,
+    "position": 8581,
+    "children": [],
+    "link": "#cllsll"
+  },
+  {
+    "title": "试验PCYC-1102-CA",
+    "level": 1,
+    "position": 9284,
+    "children": [],
+    "link": "#pcyc-1102-ca"
+  },
+  {
+    "title": "试验PCYC-1112-CA",
+    "level": 1,
+    "position": 11664,
+    "children": [],
+    "link": "#pcyc-1112-ca"
+  },
+  {
+    "title": "试验PCYC-1115-CA",
+    "level": 1,
+    "position": 14601,
+    "children": [],
+    "link": "#pcyc-1115-ca"
+  },
+  {
+    "title": "试验CLL-3001",
+    "level": 1,
+    "position": 18212,
+    "children": [],
+    "link": "#cll-3001"
+  },
+  {
+    "title": "华氏巨球蛋白血症（WM）",
+    "level": 1,
+    "position": 20530,
+    "children": [],
+    "link": "#wm"
+  },
+  {
+    "title": "研究1118和研究1127单药治疗组",
+    "level": 1,
+    "position": 21005,
+    "children": [],
+    "link": "#11181127"
+  },
+  {
+    "title": "研究1127",
+    "level": 1,
+    "position": 22785,
+    "children": [],
+    "link": "#1127"
+  },
+  {
+    "title": "其他重要不良反应",
+    "level": 1,
+    "position": 25589,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "心律失常类疾病",
+    "level": 1,
+    "position": 25601,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "腹泻",
+    "level": 1,
+    "position": 25906,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "视觉障碍",
+    "level": 1,
+    "position": 26410,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "在中国患者中的临床研究经验",
+    "level": 1,
+    "position": 26838,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "上市后经验",
+    "level": 1,
+    "position": 29316,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【禁忌】",
+    "level": 1,
+    "position": 29736,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【注意事项】",
+    "level": 1,
+    "position": 29784,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "出血",
+    "level": 1,
+    "position": 29794,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "感染",
+    "level": 1,
+    "position": 30234,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肝脏事件",
+    "level": 1,
+    "position": 30449,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "血细胞减少",
+    "level": 1,
+    "position": 30582,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "间质性肺疾病",
+    "level": 1,
+    "position": 30712,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "心律失常和心力衰竭",
+    "level": 1,
+    "position": 30825,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "白细胞淤滞",
+    "level": 1,
+    "position": 31279,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "高血压",
+    "level": 1,
+    "position": 31392,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "继发恶性肿瘤",
+    "level": 1,
+    "position": 31532,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "肿瘤溶解综合征",
+    "level": 1,
+    "position": 31771,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "乙肝病毒再激活",
+    "level": 1,
+    "position": 31848,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "对驾驶及操作机械能力的影响",
+    "level": 1,
+    "position": 32123,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【孕妇及哺乳期妇女用药】",
+    "level": 1,
+    "position": 32200,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "妊娠和胚胎-胎儿毒性",
+    "level": 1,
+    "position": 32216,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "哺乳",
+    "level": 1,
+    "position": 32565,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【儿童用药】",
+    "level": 1,
+    "position": 32676,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【老年用药】",
+    "level": 1,
+    "position": 32710,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药物相互作用】",
+    "level": 1,
+    "position": 32863,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "CYP3A抑制剂",
+    "level": 1,
+    "position": 32875,
+    "children": [],
+    "link": "#cyp3a"
+  },
+  {
+    "title": "强效CYP3A抑制剂",
+    "level": 1,
+    "position": 33155,
+    "children": [],
+    "link": "#cyp3a"
+  },
+  {
+    "title": "中效和弱效CYP3A抑制剂",
+    "level": 1,
+    "position": 33746,
+    "children": [],
+    "link": "#cyp3a"
+  },
+  {
+    "title": "CYP3A诱导剂",
+    "level": 1,
+    "position": 34007,
+    "children": [],
+    "link": "#cyp3a"
+  },
+  {
+    "title": "可能因伊布替尼改变血浆浓度的药物",
+    "level": 1,
+    "position": 34225,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药物过量】",
+    "level": 1,
+    "position": 34363,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【临床药理】",
+    "level": 1,
+    "position": 34491,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "作用机制",
+    "level": 1,
+    "position": 34501,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药效学",
+    "level": 1,
+    "position": 34555,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药代动力学",
+    "level": 1,
+    "position": 34735,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "吸收",
+    "level": 1,
+    "position": 35131,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "分布",
+    "level": 1,
+    "position": 35415,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "消除",
+    "level": 1,
+    "position": 35647,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "代谢",
+    "level": 1,
+    "position": 35804,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "排泄",
+    "level": 1,
+    "position": 35975,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "特殊人群",
+    "level": 1,
+    "position": 36150,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药物相互作用",
+    "level": 1,
+    "position": 36725,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【临床试验】",
+    "level": 1,
+    "position": 37410,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "套细胞淋巴瘤",
+    "level": 1,
+    "position": 37420,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "试验PCYC-1104-CA",
+    "level": 1,
+    "position": 37430,
+    "children": [],
+    "link": "#pcyc-1104-ca"
+  },
+  {
+    "title": "试验MCL-3001",
+    "level": 1,
+    "position": 38293,
+    "children": [],
+    "link": "#mcl-3001"
+  },
+  {
+    "title": "慢性淋巴细胞白血病(CLL)/小淋巴细胞淋巴瘤(SLL)",
+    "level": 1,
+    "position": 39687,
+    "children": [],
+    "link": "#cllsll"
+  },
+  {
+    "title": "试验PCYC-1102-CA",
+    "level": 1,
+    "position": 39764,
+    "children": [],
+    "link": "#pcyc-1102-ca"
+  },
+  {
+    "title": "试验PCYC-1112-CA",
+    "level": 1,
+    "position": 40198,
+    "children": [],
+    "link": "#pcyc-1112-ca"
+  },
+  {
+    "title": "65个月随访的最终分析",
+    "level": 1,
+    "position": 41912,
+    "children": [],
+    "link": "#65"
+  },
+  {
+    "title": "试验PCYC-1112-CA中有  $17\\mathrm{p}$  缺失的CLL/SLL",
+    "level": 1,
+    "position": 42542,
+    "children": [],
+    "link": "#pcyc-1112-ca-17mathrmp-cllsll"
+  },
+  {
+    "title": "63个月随访期",
+    "level": 1,
+    "position": 43294,
+    "children": [],
+    "link": "#63"
+  },
+  {
+    "title": "试验PCYC-1115-CA",
+    "level": 1,
+    "position": 43505,
+    "children": [],
+    "link": "#pcyc-1115-ca"
+  },
+  {
+    "title": "55个月随访期",
+    "level": 1,
+    "position": 45338,
+    "children": [],
+    "link": "#55"
+  },
+  {
+    "title": "试验 CLL-3001",
+    "level": 1,
+    "position": 45381,
+    "children": [],
+    "link": "#cll-3001"
+  },
+  {
+    "title": "亚太临床研究PCI-32765CLL3002",
+    "level": 1,
+    "position": 46837,
+    "children": [],
+    "link": "#pci-32765cll3002"
+  },
+  {
+    "title": "华氏巨球蛋白血症（WM）",
+    "level": 1,
+    "position": 48186,
+    "children": [],
+    "link": "#wm"
+  },
+  {
+    "title": "研究1118和研究1127单药治疗组",
+    "level": 1,
+    "position": 48240,
+    "children": [],
+    "link": "#11181127"
+  },
+  {
+    "title": "61个月随访（最终分析）",
+    "level": 1,
+    "position": 49362,
+    "children": [],
+    "link": "#61"
+  },
+  {
+    "title": "研究1127",
+    "level": 1,
+    "position": 49507,
+    "children": [],
+    "link": "#1127"
+  },
+  {
+    "title": "63个月随访（最终分析）",
+    "level": 1,
+    "position": 51597,
+    "children": [],
+    "link": "#63"
+  },
+  {
+    "title": "淋巴细胞增多症",
+    "level": 1,
+    "position": 53743,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "对QT/QTc间期和心脏电生理学的作用",
+    "level": 1,
+    "position": 54223,
+    "children": [],
+    "link": "#qtqtc"
+  },
+  {
+    "title": "【药理毒理】",
+    "level": 1,
+    "position": 54307,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "药理作用",
+    "level": 1,
+    "position": 54317,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "毒理研究",
+    "level": 1,
+    "position": 54673,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【包装】",
+    "level": 1,
+    "position": 55671,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【有效期】",
+    "level": 1,
+    "position": 55718,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【执行标准】",
+    "level": 1,
+    "position": 55733,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【药品上市许可持有人】",
+    "level": 1,
+    "position": 55804,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【生产企业】",
+    "level": 1,
+    "position": 56018,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【包装厂】",
+    "level": 1,
+    "position": 56113,
+    "children": [],
+    "link": "#"
+  },
+  {
+    "title": "【境内责任人/境内联系人】",
+    "level": 1,
+    "position": 56200,
+    "children": [],
+    "link": "#"
+  }
+]
